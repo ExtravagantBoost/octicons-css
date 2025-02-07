@@ -5,6 +5,7 @@
 .bundle
 .env
 node_modules
+style_template
 vendor
 Gemfile.lock
 

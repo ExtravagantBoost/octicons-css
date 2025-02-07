@@ -1,2 +1,2 @@
 #!/bin/bash
-python ./octicon-woff.py
+npm run-script run

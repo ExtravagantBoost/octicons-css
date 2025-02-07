@@ -1,0 +1,3884 @@
+{
+  "accessibility-16": {
+    "encodedCode": "\\ea01",
+    "prefix": "oi",
+    "className": "oi-accessibility-16",
+    "unicode": "&#59905;"
+  },
+  "accessibility-24": {
+    "encodedCode": "\\ea02",
+    "prefix": "oi",
+    "className": "oi-accessibility-24",
+    "unicode": "&#59906;"
+  },
+  "accessibility-inset-16": {
+    "encodedCode": "\\ea03",
+    "prefix": "oi",
+    "className": "oi-accessibility-inset-16",
+    "unicode": "&#59907;"
+  },
+  "accessibility-inset-24": {
+    "encodedCode": "\\ea04",
+    "prefix": "oi",
+    "className": "oi-accessibility-inset-24",
+    "unicode": "&#59908;"
+  },
+  "ai-model-16": {
+    "encodedCode": "\\ea05",
+    "prefix": "oi",
+    "className": "oi-ai-model-16",
+    "unicode": "&#59909;"
+  },
+  "ai-model-24": {
+    "encodedCode": "\\ea06",
+    "prefix": "oi",
+    "className": "oi-ai-model-24",
+    "unicode": "&#59910;"
+  },
+  "alert-16": {
+    "encodedCode": "\\ea07",
+    "prefix": "oi",
+    "className": "oi-alert-16",
+    "unicode": "&#59911;"
+  },
+  "alert-24": {
+    "encodedCode": "\\ea08",
+    "prefix": "oi",
+    "className": "oi-alert-24",
+    "unicode": "&#59912;"
+  },
+  "alert-fill-12": {
+    "encodedCode": "\\ea09",
+    "prefix": "oi",
+    "className": "oi-alert-fill-12",
+    "unicode": "&#59913;"
+  },
+  "alert-fill-16": {
+    "encodedCode": "\\ea0a",
+    "prefix": "oi",
+    "className": "oi-alert-fill-16",
+    "unicode": "&#59914;"
+  },
+  "alert-fill-24": {
+    "encodedCode": "\\ea0b",
+    "prefix": "oi",
+    "className": "oi-alert-fill-24",
+    "unicode": "&#59915;"
+  },
+  "apps-16": {
+    "encodedCode": "\\ea0c",
+    "prefix": "oi",
+    "className": "oi-apps-16",
+    "unicode": "&#59916;"
+  },
+  "apps-24": {
+    "encodedCode": "\\ea0d",
+    "prefix": "oi",
+    "className": "oi-apps-24",
+    "unicode": "&#59917;"
+  },
+  "archive-16": {
+    "encodedCode": "\\ea0e",
+    "prefix": "oi",
+    "className": "oi-archive-16",
+    "unicode": "&#59918;"
+  },
+  "archive-24": {
+    "encodedCode": "\\ea0f",
+    "prefix": "oi",
+    "className": "oi-archive-24",
+    "unicode": "&#59919;"
+  },
+  "arrow-both-16": {
+    "encodedCode": "\\ea10",
+    "prefix": "oi",
+    "className": "oi-arrow-both-16",
+    "unicode": "&#59920;"
+  },
+  "arrow-both-24": {
+    "encodedCode": "\\ea11",
+    "prefix": "oi",
+    "className": "oi-arrow-both-24",
+    "unicode": "&#59921;"
+  },
+  "arrow-down-16": {
+    "encodedCode": "\\ea12",
+    "prefix": "oi",
+    "className": "oi-arrow-down-16",
+    "unicode": "&#59922;"
+  },
+  "arrow-down-24": {
+    "encodedCode": "\\ea13",
+    "prefix": "oi",
+    "className": "oi-arrow-down-24",
+    "unicode": "&#59923;"
+  },
+  "arrow-down-left-16": {
+    "encodedCode": "\\ea14",
+    "prefix": "oi",
+    "className": "oi-arrow-down-left-16",
+    "unicode": "&#59924;"
+  },
+  "arrow-down-left-24": {
+    "encodedCode": "\\ea15",
+    "prefix": "oi",
+    "className": "oi-arrow-down-left-24",
+    "unicode": "&#59925;"
+  },
+  "arrow-down-right-16": {
+    "encodedCode": "\\ea16",
+    "prefix": "oi",
+    "className": "oi-arrow-down-right-16",
+    "unicode": "&#59926;"
+  },
+  "arrow-down-right-24": {
+    "encodedCode": "\\ea17",
+    "prefix": "oi",
+    "className": "oi-arrow-down-right-24",
+    "unicode": "&#59927;"
+  },
+  "arrow-left-16": {
+    "encodedCode": "\\ea18",
+    "prefix": "oi",
+    "className": "oi-arrow-left-16",
+    "unicode": "&#59928;"
+  },
+  "arrow-left-24": {
+    "encodedCode": "\\ea19",
+    "prefix": "oi",
+    "className": "oi-arrow-left-24",
+    "unicode": "&#59929;"
+  },
+  "arrow-right-16": {
+    "encodedCode": "\\ea1a",
+    "prefix": "oi",
+    "className": "oi-arrow-right-16",
+    "unicode": "&#59930;"
+  },
+  "arrow-right-24": {
+    "encodedCode": "\\ea1b",
+    "prefix": "oi",
+    "className": "oi-arrow-right-24",
+    "unicode": "&#59931;"
+  },
+  "arrow-switch-16": {
+    "encodedCode": "\\ea1c",
+    "prefix": "oi",
+    "className": "oi-arrow-switch-16",
+    "unicode": "&#59932;"
+  },
+  "arrow-switch-24": {
+    "encodedCode": "\\ea1d",
+    "prefix": "oi",
+    "className": "oi-arrow-switch-24",
+    "unicode": "&#59933;"
+  },
+  "arrow-up-16": {
+    "encodedCode": "\\ea1e",
+    "prefix": "oi",
+    "className": "oi-arrow-up-16",
+    "unicode": "&#59934;"
+  },
+  "arrow-up-24": {
+    "encodedCode": "\\ea1f",
+    "prefix": "oi",
+    "className": "oi-arrow-up-24",
+    "unicode": "&#59935;"
+  },
+  "arrow-up-left-16": {
+    "encodedCode": "\\ea20",
+    "prefix": "oi",
+    "className": "oi-arrow-up-left-16",
+    "unicode": "&#59936;"
+  },
+  "arrow-up-left-24": {
+    "encodedCode": "\\ea21",
+    "prefix": "oi",
+    "className": "oi-arrow-up-left-24",
+    "unicode": "&#59937;"
+  },
+  "arrow-up-right-16": {
+    "encodedCode": "\\ea22",
+    "prefix": "oi",
+    "className": "oi-arrow-up-right-16",
+    "unicode": "&#59938;"
+  },
+  "arrow-up-right-24": {
+    "encodedCode": "\\ea23",
+    "prefix": "oi",
+    "className": "oi-arrow-up-right-24",
+    "unicode": "&#59939;"
+  },
+  "beaker-16": {
+    "encodedCode": "\\ea24",
+    "prefix": "oi",
+    "className": "oi-beaker-16",
+    "unicode": "&#59940;"
+  },
+  "beaker-24": {
+    "encodedCode": "\\ea25",
+    "prefix": "oi",
+    "className": "oi-beaker-24",
+    "unicode": "&#59941;"
+  },
+  "bell-16": {
+    "encodedCode": "\\ea26",
+    "prefix": "oi",
+    "className": "oi-bell-16",
+    "unicode": "&#59942;"
+  },
+  "bell-24": {
+    "encodedCode": "\\ea27",
+    "prefix": "oi",
+    "className": "oi-bell-24",
+    "unicode": "&#59943;"
+  },
+  "bell-fill-16": {
+    "encodedCode": "\\ea28",
+    "prefix": "oi",
+    "className": "oi-bell-fill-16",
+    "unicode": "&#59944;"
+  },
+  "bell-fill-24": {
+    "encodedCode": "\\ea29",
+    "prefix": "oi",
+    "className": "oi-bell-fill-24",
+    "unicode": "&#59945;"
+  },
+  "bell-slash-16": {
+    "encodedCode": "\\ea2a",
+    "prefix": "oi",
+    "className": "oi-bell-slash-16",
+    "unicode": "&#59946;"
+  },
+  "bell-slash-24": {
+    "encodedCode": "\\ea2b",
+    "prefix": "oi",
+    "className": "oi-bell-slash-24",
+    "unicode": "&#59947;"
+  },
+  "blocked-16": {
+    "encodedCode": "\\ea2c",
+    "prefix": "oi",
+    "className": "oi-blocked-16",
+    "unicode": "&#59948;"
+  },
+  "blocked-24": {
+    "encodedCode": "\\ea2d",
+    "prefix": "oi",
+    "className": "oi-blocked-24",
+    "unicode": "&#59949;"
+  },
+  "bold-16": {
+    "encodedCode": "\\ea2e",
+    "prefix": "oi",
+    "className": "oi-bold-16",
+    "unicode": "&#59950;"
+  },
+  "bold-24": {
+    "encodedCode": "\\ea2f",
+    "prefix": "oi",
+    "className": "oi-bold-24",
+    "unicode": "&#59951;"
+  },
+  "book-16": {
+    "encodedCode": "\\ea30",
+    "prefix": "oi",
+    "className": "oi-book-16",
+    "unicode": "&#59952;"
+  },
+  "book-24": {
+    "encodedCode": "\\ea31",
+    "prefix": "oi",
+    "className": "oi-book-24",
+    "unicode": "&#59953;"
+  },
+  "bookmark-16": {
+    "encodedCode": "\\ea32",
+    "prefix": "oi",
+    "className": "oi-bookmark-16",
+    "unicode": "&#59954;"
+  },
+  "bookmark-24": {
+    "encodedCode": "\\ea33",
+    "prefix": "oi",
+    "className": "oi-bookmark-24",
+    "unicode": "&#59955;"
+  },
+  "bookmark-fill-24": {
+    "encodedCode": "\\ea34",
+    "prefix": "oi",
+    "className": "oi-bookmark-fill-24",
+    "unicode": "&#59956;"
+  },
+  "bookmark-filled-16": {
+    "encodedCode": "\\ea35",
+    "prefix": "oi",
+    "className": "oi-bookmark-filled-16",
+    "unicode": "&#59957;"
+  },
+  "bookmark-slash-16": {
+    "encodedCode": "\\ea36",
+    "prefix": "oi",
+    "className": "oi-bookmark-slash-16",
+    "unicode": "&#59958;"
+  },
+  "bookmark-slash-24": {
+    "encodedCode": "\\ea37",
+    "prefix": "oi",
+    "className": "oi-bookmark-slash-24",
+    "unicode": "&#59959;"
+  },
+  "bookmark-slash-fill-16": {
+    "encodedCode": "\\ea38",
+    "prefix": "oi",
+    "className": "oi-bookmark-slash-fill-16",
+    "unicode": "&#59960;"
+  },
+  "bookmark-slash-fill-24": {
+    "encodedCode": "\\ea39",
+    "prefix": "oi",
+    "className": "oi-bookmark-slash-fill-24",
+    "unicode": "&#59961;"
+  },
+  "briefcase-16": {
+    "encodedCode": "\\ea3a",
+    "prefix": "oi",
+    "className": "oi-briefcase-16",
+    "unicode": "&#59962;"
+  },
+  "briefcase-24": {
+    "encodedCode": "\\ea3b",
+    "prefix": "oi",
+    "className": "oi-briefcase-24",
+    "unicode": "&#59963;"
+  },
+  "broadcast-16": {
+    "encodedCode": "\\ea3c",
+    "prefix": "oi",
+    "className": "oi-broadcast-16",
+    "unicode": "&#59964;"
+  },
+  "broadcast-24": {
+    "encodedCode": "\\ea3d",
+    "prefix": "oi",
+    "className": "oi-broadcast-24",
+    "unicode": "&#59965;"
+  },
+  "browser-16": {
+    "encodedCode": "\\ea3e",
+    "prefix": "oi",
+    "className": "oi-browser-16",
+    "unicode": "&#59966;"
+  },
+  "browser-24": {
+    "encodedCode": "\\ea3f",
+    "prefix": "oi",
+    "className": "oi-browser-24",
+    "unicode": "&#59967;"
+  },
+  "bug-16": {
+    "encodedCode": "\\ea40",
+    "prefix": "oi",
+    "className": "oi-bug-16",
+    "unicode": "&#59968;"
+  },
+  "bug-24": {
+    "encodedCode": "\\ea41",
+    "prefix": "oi",
+    "className": "oi-bug-24",
+    "unicode": "&#59969;"
+  },
+  "cache-16": {
+    "encodedCode": "\\ea42",
+    "prefix": "oi",
+    "className": "oi-cache-16",
+    "unicode": "&#59970;"
+  },
+  "cache-24": {
+    "encodedCode": "\\ea43",
+    "prefix": "oi",
+    "className": "oi-cache-24",
+    "unicode": "&#59971;"
+  },
+  "calendar-16": {
+    "encodedCode": "\\ea44",
+    "prefix": "oi",
+    "className": "oi-calendar-16",
+    "unicode": "&#59972;"
+  },
+  "calendar-24": {
+    "encodedCode": "\\ea45",
+    "prefix": "oi",
+    "className": "oi-calendar-24",
+    "unicode": "&#59973;"
+  },
+  "check-16": {
+    "encodedCode": "\\ea46",
+    "prefix": "oi",
+    "className": "oi-check-16",
+    "unicode": "&#59974;"
+  },
+  "check-24": {
+    "encodedCode": "\\ea47",
+    "prefix": "oi",
+    "className": "oi-check-24",
+    "unicode": "&#59975;"
+  },
+  "check-circle-16": {
+    "encodedCode": "\\ea48",
+    "prefix": "oi",
+    "className": "oi-check-circle-16",
+    "unicode": "&#59976;"
+  },
+  "check-circle-24": {
+    "encodedCode": "\\ea49",
+    "prefix": "oi",
+    "className": "oi-check-circle-24",
+    "unicode": "&#59977;"
+  },
+  "check-circle-fill-12": {
+    "encodedCode": "\\ea4a",
+    "prefix": "oi",
+    "className": "oi-check-circle-fill-12",
+    "unicode": "&#59978;"
+  },
+  "check-circle-fill-16": {
+    "encodedCode": "\\ea4b",
+    "prefix": "oi",
+    "className": "oi-check-circle-fill-16",
+    "unicode": "&#59979;"
+  },
+  "check-circle-fill-24": {
+    "encodedCode": "\\ea4c",
+    "prefix": "oi",
+    "className": "oi-check-circle-fill-24",
+    "unicode": "&#59980;"
+  },
+  "checkbox-16": {
+    "encodedCode": "\\ea4d",
+    "prefix": "oi",
+    "className": "oi-checkbox-16",
+    "unicode": "&#59981;"
+  },
+  "checkbox-24": {
+    "encodedCode": "\\ea4e",
+    "prefix": "oi",
+    "className": "oi-checkbox-24",
+    "unicode": "&#59982;"
+  },
+  "checklist-16": {
+    "encodedCode": "\\ea4f",
+    "prefix": "oi",
+    "className": "oi-checklist-16",
+    "unicode": "&#59983;"
+  },
+  "checklist-24": {
+    "encodedCode": "\\ea50",
+    "prefix": "oi",
+    "className": "oi-checklist-24",
+    "unicode": "&#59984;"
+  },
+  "chevron-down-12": {
+    "encodedCode": "\\ea51",
+    "prefix": "oi",
+    "className": "oi-chevron-down-12",
+    "unicode": "&#59985;"
+  },
+  "chevron-down-16": {
+    "encodedCode": "\\ea52",
+    "prefix": "oi",
+    "className": "oi-chevron-down-16",
+    "unicode": "&#59986;"
+  },
+  "chevron-down-24": {
+    "encodedCode": "\\ea53",
+    "prefix": "oi",
+    "className": "oi-chevron-down-24",
+    "unicode": "&#59987;"
+  },
+  "chevron-left-12": {
+    "encodedCode": "\\ea54",
+    "prefix": "oi",
+    "className": "oi-chevron-left-12",
+    "unicode": "&#59988;"
+  },
+  "chevron-left-16": {
+    "encodedCode": "\\ea55",
+    "prefix": "oi",
+    "className": "oi-chevron-left-16",
+    "unicode": "&#59989;"
+  },
+  "chevron-left-24": {
+    "encodedCode": "\\ea56",
+    "prefix": "oi",
+    "className": "oi-chevron-left-24",
+    "unicode": "&#59990;"
+  },
+  "chevron-right-12": {
+    "encodedCode": "\\ea57",
+    "prefix": "oi",
+    "className": "oi-chevron-right-12",
+    "unicode": "&#59991;"
+  },
+  "chevron-right-16": {
+    "encodedCode": "\\ea58",
+    "prefix": "oi",
+    "className": "oi-chevron-right-16",
+    "unicode": "&#59992;"
+  },
+  "chevron-right-24": {
+    "encodedCode": "\\ea59",
+    "prefix": "oi",
+    "className": "oi-chevron-right-24",
+    "unicode": "&#59993;"
+  },
+  "chevron-up-12": {
+    "encodedCode": "\\ea5a",
+    "prefix": "oi",
+    "className": "oi-chevron-up-12",
+    "unicode": "&#59994;"
+  },
+  "chevron-up-16": {
+    "encodedCode": "\\ea5b",
+    "prefix": "oi",
+    "className": "oi-chevron-up-16",
+    "unicode": "&#59995;"
+  },
+  "chevron-up-24": {
+    "encodedCode": "\\ea5c",
+    "prefix": "oi",
+    "className": "oi-chevron-up-24",
+    "unicode": "&#59996;"
+  },
+  "circle-16": {
+    "encodedCode": "\\ea5d",
+    "prefix": "oi",
+    "className": "oi-circle-16",
+    "unicode": "&#59997;"
+  },
+  "circle-24": {
+    "encodedCode": "\\ea5e",
+    "prefix": "oi",
+    "className": "oi-circle-24",
+    "unicode": "&#59998;"
+  },
+  "circle-slash-16": {
+    "encodedCode": "\\ea5f",
+    "prefix": "oi",
+    "className": "oi-circle-slash-16",
+    "unicode": "&#59999;"
+  },
+  "circle-slash-24": {
+    "encodedCode": "\\ea60",
+    "prefix": "oi",
+    "className": "oi-circle-slash-24",
+    "unicode": "&#60000;"
+  },
+  "clock-16": {
+    "encodedCode": "\\ea61",
+    "prefix": "oi",
+    "className": "oi-clock-16",
+    "unicode": "&#60001;"
+  },
+  "clock-24": {
+    "encodedCode": "\\ea62",
+    "prefix": "oi",
+    "className": "oi-clock-24",
+    "unicode": "&#60002;"
+  },
+  "clock-fill-16": {
+    "encodedCode": "\\ea63",
+    "prefix": "oi",
+    "className": "oi-clock-fill-16",
+    "unicode": "&#60003;"
+  },
+  "clock-fill-24": {
+    "encodedCode": "\\ea64",
+    "prefix": "oi",
+    "className": "oi-clock-fill-24",
+    "unicode": "&#60004;"
+  },
+  "cloud-16": {
+    "encodedCode": "\\ea65",
+    "prefix": "oi",
+    "className": "oi-cloud-16",
+    "unicode": "&#60005;"
+  },
+  "cloud-24": {
+    "encodedCode": "\\ea66",
+    "prefix": "oi",
+    "className": "oi-cloud-24",
+    "unicode": "&#60006;"
+  },
+  "cloud-offline-16": {
+    "encodedCode": "\\ea67",
+    "prefix": "oi",
+    "className": "oi-cloud-offline-16",
+    "unicode": "&#60007;"
+  },
+  "cloud-offline-24": {
+    "encodedCode": "\\ea68",
+    "prefix": "oi",
+    "className": "oi-cloud-offline-24",
+    "unicode": "&#60008;"
+  },
+  "code-16": {
+    "encodedCode": "\\ea69",
+    "prefix": "oi",
+    "className": "oi-code-16",
+    "unicode": "&#60009;"
+  },
+  "code-24": {
+    "encodedCode": "\\ea6a",
+    "prefix": "oi",
+    "className": "oi-code-24",
+    "unicode": "&#60010;"
+  },
+  "code-of-conduct-16": {
+    "encodedCode": "\\ea6b",
+    "prefix": "oi",
+    "className": "oi-code-of-conduct-16",
+    "unicode": "&#60011;"
+  },
+  "code-of-conduct-24": {
+    "encodedCode": "\\ea6c",
+    "prefix": "oi",
+    "className": "oi-code-of-conduct-24",
+    "unicode": "&#60012;"
+  },
+  "code-review-16": {
+    "encodedCode": "\\ea6d",
+    "prefix": "oi",
+    "className": "oi-code-review-16",
+    "unicode": "&#60013;"
+  },
+  "code-review-24": {
+    "encodedCode": "\\ea6e",
+    "prefix": "oi",
+    "className": "oi-code-review-24",
+    "unicode": "&#60014;"
+  },
+  "code-square-16": {
+    "encodedCode": "\\ea6f",
+    "prefix": "oi",
+    "className": "oi-code-square-16",
+    "unicode": "&#60015;"
+  },
+  "code-square-24": {
+    "encodedCode": "\\ea70",
+    "prefix": "oi",
+    "className": "oi-code-square-24",
+    "unicode": "&#60016;"
+  },
+  "codescan-16": {
+    "encodedCode": "\\ea71",
+    "prefix": "oi",
+    "className": "oi-codescan-16",
+    "unicode": "&#60017;"
+  },
+  "codescan-24": {
+    "encodedCode": "\\ea72",
+    "prefix": "oi",
+    "className": "oi-codescan-24",
+    "unicode": "&#60018;"
+  },
+  "codescan-checkmark-16": {
+    "encodedCode": "\\ea73",
+    "prefix": "oi",
+    "className": "oi-codescan-checkmark-16",
+    "unicode": "&#60019;"
+  },
+  "codescan-checkmark-24": {
+    "encodedCode": "\\ea74",
+    "prefix": "oi",
+    "className": "oi-codescan-checkmark-24",
+    "unicode": "&#60020;"
+  },
+  "codespaces-16": {
+    "encodedCode": "\\ea75",
+    "prefix": "oi",
+    "className": "oi-codespaces-16",
+    "unicode": "&#60021;"
+  },
+  "codespaces-24": {
+    "encodedCode": "\\ea76",
+    "prefix": "oi",
+    "className": "oi-codespaces-24",
+    "unicode": "&#60022;"
+  },
+  "columns-16": {
+    "encodedCode": "\\ea77",
+    "prefix": "oi",
+    "className": "oi-columns-16",
+    "unicode": "&#60023;"
+  },
+  "columns-24": {
+    "encodedCode": "\\ea78",
+    "prefix": "oi",
+    "className": "oi-columns-24",
+    "unicode": "&#60024;"
+  },
+  "command-palette-16": {
+    "encodedCode": "\\ea79",
+    "prefix": "oi",
+    "className": "oi-command-palette-16",
+    "unicode": "&#60025;"
+  },
+  "command-palette-24": {
+    "encodedCode": "\\ea7a",
+    "prefix": "oi",
+    "className": "oi-command-palette-24",
+    "unicode": "&#60026;"
+  },
+  "comment-16": {
+    "encodedCode": "\\ea7b",
+    "prefix": "oi",
+    "className": "oi-comment-16",
+    "unicode": "&#60027;"
+  },
+  "comment-24": {
+    "encodedCode": "\\ea7c",
+    "prefix": "oi",
+    "className": "oi-comment-24",
+    "unicode": "&#60028;"
+  },
+  "comment-discussion-16": {
+    "encodedCode": "\\ea7d",
+    "prefix": "oi",
+    "className": "oi-comment-discussion-16",
+    "unicode": "&#60029;"
+  },
+  "comment-discussion-24": {
+    "encodedCode": "\\ea7e",
+    "prefix": "oi",
+    "className": "oi-comment-discussion-24",
+    "unicode": "&#60030;"
+  },
+  "container-16": {
+    "encodedCode": "\\ea7f",
+    "prefix": "oi",
+    "className": "oi-container-16",
+    "unicode": "&#60031;"
+  },
+  "container-24": {
+    "encodedCode": "\\ea80",
+    "prefix": "oi",
+    "className": "oi-container-24",
+    "unicode": "&#60032;"
+  },
+  "copilot-16": {
+    "encodedCode": "\\ea81",
+    "prefix": "oi",
+    "className": "oi-copilot-16",
+    "unicode": "&#60033;"
+  },
+  "copilot-24": {
+    "encodedCode": "\\ea82",
+    "prefix": "oi",
+    "className": "oi-copilot-24",
+    "unicode": "&#60034;"
+  },
+  "copilot-48": {
+    "encodedCode": "\\ea83",
+    "prefix": "oi",
+    "className": "oi-copilot-48",
+    "unicode": "&#60035;"
+  },
+  "copilot-96": {
+    "encodedCode": "\\ea84",
+    "prefix": "oi",
+    "className": "oi-copilot-96",
+    "unicode": "&#60036;"
+  },
+  "copilot-error-16": {
+    "encodedCode": "\\ea85",
+    "prefix": "oi",
+    "className": "oi-copilot-error-16",
+    "unicode": "&#60037;"
+  },
+  "copilot-warning-16": {
+    "encodedCode": "\\ea86",
+    "prefix": "oi",
+    "className": "oi-copilot-warning-16",
+    "unicode": "&#60038;"
+  },
+  "copy-16": {
+    "encodedCode": "\\ea87",
+    "prefix": "oi",
+    "className": "oi-copy-16",
+    "unicode": "&#60039;"
+  },
+  "copy-24": {
+    "encodedCode": "\\ea88",
+    "prefix": "oi",
+    "className": "oi-copy-24",
+    "unicode": "&#60040;"
+  },
+  "cpu-16": {
+    "encodedCode": "\\ea89",
+    "prefix": "oi",
+    "className": "oi-cpu-16",
+    "unicode": "&#60041;"
+  },
+  "cpu-24": {
+    "encodedCode": "\\ea8a",
+    "prefix": "oi",
+    "className": "oi-cpu-24",
+    "unicode": "&#60042;"
+  },
+  "credit-card-16": {
+    "encodedCode": "\\ea8b",
+    "prefix": "oi",
+    "className": "oi-credit-card-16",
+    "unicode": "&#60043;"
+  },
+  "credit-card-24": {
+    "encodedCode": "\\ea8c",
+    "prefix": "oi",
+    "className": "oi-credit-card-24",
+    "unicode": "&#60044;"
+  },
+  "cross-reference-16": {
+    "encodedCode": "\\ea8d",
+    "prefix": "oi",
+    "className": "oi-cross-reference-16",
+    "unicode": "&#60045;"
+  },
+  "cross-reference-24": {
+    "encodedCode": "\\ea8e",
+    "prefix": "oi",
+    "className": "oi-cross-reference-24",
+    "unicode": "&#60046;"
+  },
+  "dash-16": {
+    "encodedCode": "\\ea8f",
+    "prefix": "oi",
+    "className": "oi-dash-16",
+    "unicode": "&#60047;"
+  },
+  "dash-24": {
+    "encodedCode": "\\ea90",
+    "prefix": "oi",
+    "className": "oi-dash-24",
+    "unicode": "&#60048;"
+  },
+  "database-16": {
+    "encodedCode": "\\ea91",
+    "prefix": "oi",
+    "className": "oi-database-16",
+    "unicode": "&#60049;"
+  },
+  "database-24": {
+    "encodedCode": "\\ea92",
+    "prefix": "oi",
+    "className": "oi-database-24",
+    "unicode": "&#60050;"
+  },
+  "dependabot-16": {
+    "encodedCode": "\\ea93",
+    "prefix": "oi",
+    "className": "oi-dependabot-16",
+    "unicode": "&#60051;"
+  },
+  "dependabot-24": {
+    "encodedCode": "\\ea94",
+    "prefix": "oi",
+    "className": "oi-dependabot-24",
+    "unicode": "&#60052;"
+  },
+  "desktop-download-16": {
+    "encodedCode": "\\ea95",
+    "prefix": "oi",
+    "className": "oi-desktop-download-16",
+    "unicode": "&#60053;"
+  },
+  "desktop-download-24": {
+    "encodedCode": "\\ea96",
+    "prefix": "oi",
+    "className": "oi-desktop-download-24",
+    "unicode": "&#60054;"
+  },
+  "device-camera-16": {
+    "encodedCode": "\\ea97",
+    "prefix": "oi",
+    "className": "oi-device-camera-16",
+    "unicode": "&#60055;"
+  },
+  "device-camera-24": {
+    "encodedCode": "\\ea98",
+    "prefix": "oi",
+    "className": "oi-device-camera-24",
+    "unicode": "&#60056;"
+  },
+  "device-camera-video-16": {
+    "encodedCode": "\\ea99",
+    "prefix": "oi",
+    "className": "oi-device-camera-video-16",
+    "unicode": "&#60057;"
+  },
+  "device-camera-video-24": {
+    "encodedCode": "\\ea9a",
+    "prefix": "oi",
+    "className": "oi-device-camera-video-24",
+    "unicode": "&#60058;"
+  },
+  "device-desktop-16": {
+    "encodedCode": "\\ea9b",
+    "prefix": "oi",
+    "className": "oi-device-desktop-16",
+    "unicode": "&#60059;"
+  },
+  "device-desktop-24": {
+    "encodedCode": "\\ea9c",
+    "prefix": "oi",
+    "className": "oi-device-desktop-24",
+    "unicode": "&#60060;"
+  },
+  "device-mobile-16": {
+    "encodedCode": "\\ea9d",
+    "prefix": "oi",
+    "className": "oi-device-mobile-16",
+    "unicode": "&#60061;"
+  },
+  "device-mobile-24": {
+    "encodedCode": "\\ea9e",
+    "prefix": "oi",
+    "className": "oi-device-mobile-24",
+    "unicode": "&#60062;"
+  },
+  "devices-16": {
+    "encodedCode": "\\ea9f",
+    "prefix": "oi",
+    "className": "oi-devices-16",
+    "unicode": "&#60063;"
+  },
+  "devices-24": {
+    "encodedCode": "\\eaa0",
+    "prefix": "oi",
+    "className": "oi-devices-24",
+    "unicode": "&#60064;"
+  },
+  "diamond-16": {
+    "encodedCode": "\\eaa1",
+    "prefix": "oi",
+    "className": "oi-diamond-16",
+    "unicode": "&#60065;"
+  },
+  "diamond-24": {
+    "encodedCode": "\\eaa2",
+    "prefix": "oi",
+    "className": "oi-diamond-24",
+    "unicode": "&#60066;"
+  },
+  "diff-16": {
+    "encodedCode": "\\eaa3",
+    "prefix": "oi",
+    "className": "oi-diff-16",
+    "unicode": "&#60067;"
+  },
+  "diff-24": {
+    "encodedCode": "\\eaa4",
+    "prefix": "oi",
+    "className": "oi-diff-24",
+    "unicode": "&#60068;"
+  },
+  "diff-added-16": {
+    "encodedCode": "\\eaa5",
+    "prefix": "oi",
+    "className": "oi-diff-added-16",
+    "unicode": "&#60069;"
+  },
+  "diff-added-24": {
+    "encodedCode": "\\eaa6",
+    "prefix": "oi",
+    "className": "oi-diff-added-24",
+    "unicode": "&#60070;"
+  },
+  "diff-ignored-16": {
+    "encodedCode": "\\eaa7",
+    "prefix": "oi",
+    "className": "oi-diff-ignored-16",
+    "unicode": "&#60071;"
+  },
+  "diff-ignored-24": {
+    "encodedCode": "\\eaa8",
+    "prefix": "oi",
+    "className": "oi-diff-ignored-24",
+    "unicode": "&#60072;"
+  },
+  "diff-modified-16": {
+    "encodedCode": "\\eaa9",
+    "prefix": "oi",
+    "className": "oi-diff-modified-16",
+    "unicode": "&#60073;"
+  },
+  "diff-modified-24": {
+    "encodedCode": "\\eaaa",
+    "prefix": "oi",
+    "className": "oi-diff-modified-24",
+    "unicode": "&#60074;"
+  },
+  "diff-removed-16": {
+    "encodedCode": "\\eaab",
+    "prefix": "oi",
+    "className": "oi-diff-removed-16",
+    "unicode": "&#60075;"
+  },
+  "diff-removed-24": {
+    "encodedCode": "\\eaac",
+    "prefix": "oi",
+    "className": "oi-diff-removed-24",
+    "unicode": "&#60076;"
+  },
+  "diff-renamed-16": {
+    "encodedCode": "\\eaad",
+    "prefix": "oi",
+    "className": "oi-diff-renamed-16",
+    "unicode": "&#60077;"
+  },
+  "diff-renamed-24": {
+    "encodedCode": "\\eaae",
+    "prefix": "oi",
+    "className": "oi-diff-renamed-24",
+    "unicode": "&#60078;"
+  },
+  "discussion-closed-16": {
+    "encodedCode": "\\eaaf",
+    "prefix": "oi",
+    "className": "oi-discussion-closed-16",
+    "unicode": "&#60079;"
+  },
+  "discussion-closed-24": {
+    "encodedCode": "\\eab0",
+    "prefix": "oi",
+    "className": "oi-discussion-closed-24",
+    "unicode": "&#60080;"
+  },
+  "discussion-duplicate-16": {
+    "encodedCode": "\\eab1",
+    "prefix": "oi",
+    "className": "oi-discussion-duplicate-16",
+    "unicode": "&#60081;"
+  },
+  "discussion-duplicate-24": {
+    "encodedCode": "\\eab2",
+    "prefix": "oi",
+    "className": "oi-discussion-duplicate-24",
+    "unicode": "&#60082;"
+  },
+  "discussion-outdated-16": {
+    "encodedCode": "\\eab3",
+    "prefix": "oi",
+    "className": "oi-discussion-outdated-16",
+    "unicode": "&#60083;"
+  },
+  "discussion-outdated-24": {
+    "encodedCode": "\\eab4",
+    "prefix": "oi",
+    "className": "oi-discussion-outdated-24",
+    "unicode": "&#60084;"
+  },
+  "dot-16": {
+    "encodedCode": "\\eab5",
+    "prefix": "oi",
+    "className": "oi-dot-16",
+    "unicode": "&#60085;"
+  },
+  "dot-24": {
+    "encodedCode": "\\eab6",
+    "prefix": "oi",
+    "className": "oi-dot-24",
+    "unicode": "&#60086;"
+  },
+  "dot-fill-16": {
+    "encodedCode": "\\eab7",
+    "prefix": "oi",
+    "className": "oi-dot-fill-16",
+    "unicode": "&#60087;"
+  },
+  "dot-fill-24": {
+    "encodedCode": "\\eab8",
+    "prefix": "oi",
+    "className": "oi-dot-fill-24",
+    "unicode": "&#60088;"
+  },
+  "download-16": {
+    "encodedCode": "\\eab9",
+    "prefix": "oi",
+    "className": "oi-download-16",
+    "unicode": "&#60089;"
+  },
+  "download-24": {
+    "encodedCode": "\\eaba",
+    "prefix": "oi",
+    "className": "oi-download-24",
+    "unicode": "&#60090;"
+  },
+  "duplicate-16": {
+    "encodedCode": "\\eabb",
+    "prefix": "oi",
+    "className": "oi-duplicate-16",
+    "unicode": "&#60091;"
+  },
+  "duplicate-24": {
+    "encodedCode": "\\eabc",
+    "prefix": "oi",
+    "className": "oi-duplicate-24",
+    "unicode": "&#60092;"
+  },
+  "ellipsis-16": {
+    "encodedCode": "\\eabd",
+    "prefix": "oi",
+    "className": "oi-ellipsis-16",
+    "unicode": "&#60093;"
+  },
+  "ellipsis-24": {
+    "encodedCode": "\\eabe",
+    "prefix": "oi",
+    "className": "oi-ellipsis-24",
+    "unicode": "&#60094;"
+  },
+  "eye-16": {
+    "encodedCode": "\\eabf",
+    "prefix": "oi",
+    "className": "oi-eye-16",
+    "unicode": "&#60095;"
+  },
+  "eye-24": {
+    "encodedCode": "\\eac0",
+    "prefix": "oi",
+    "className": "oi-eye-24",
+    "unicode": "&#60096;"
+  },
+  "eye-closed-16": {
+    "encodedCode": "\\eac1",
+    "prefix": "oi",
+    "className": "oi-eye-closed-16",
+    "unicode": "&#60097;"
+  },
+  "eye-closed-24": {
+    "encodedCode": "\\eac2",
+    "prefix": "oi",
+    "className": "oi-eye-closed-24",
+    "unicode": "&#60098;"
+  },
+  "feed-discussion-16": {
+    "encodedCode": "\\eac3",
+    "prefix": "oi",
+    "className": "oi-feed-discussion-16",
+    "unicode": "&#60099;"
+  },
+  "feed-forked-16": {
+    "encodedCode": "\\eac4",
+    "prefix": "oi",
+    "className": "oi-feed-forked-16",
+    "unicode": "&#60100;"
+  },
+  "feed-heart-16": {
+    "encodedCode": "\\eac5",
+    "prefix": "oi",
+    "className": "oi-feed-heart-16",
+    "unicode": "&#60101;"
+  },
+  "feed-issue-closed-16": {
+    "encodedCode": "\\eac6",
+    "prefix": "oi",
+    "className": "oi-feed-issue-closed-16",
+    "unicode": "&#60102;"
+  },
+  "feed-issue-draft-16": {
+    "encodedCode": "\\eac7",
+    "prefix": "oi",
+    "className": "oi-feed-issue-draft-16",
+    "unicode": "&#60103;"
+  },
+  "feed-issue-open-16": {
+    "encodedCode": "\\eac8",
+    "prefix": "oi",
+    "className": "oi-feed-issue-open-16",
+    "unicode": "&#60104;"
+  },
+  "feed-issue-reopen-16": {
+    "encodedCode": "\\eac9",
+    "prefix": "oi",
+    "className": "oi-feed-issue-reopen-16",
+    "unicode": "&#60105;"
+  },
+  "feed-merged-16": {
+    "encodedCode": "\\eaca",
+    "prefix": "oi",
+    "className": "oi-feed-merged-16",
+    "unicode": "&#60106;"
+  },
+  "feed-person-16": {
+    "encodedCode": "\\eacb",
+    "prefix": "oi",
+    "className": "oi-feed-person-16",
+    "unicode": "&#60107;"
+  },
+  "feed-plus-16": {
+    "encodedCode": "\\eacc",
+    "prefix": "oi",
+    "className": "oi-feed-plus-16",
+    "unicode": "&#60108;"
+  },
+  "feed-public-16": {
+    "encodedCode": "\\eacd",
+    "prefix": "oi",
+    "className": "oi-feed-public-16",
+    "unicode": "&#60109;"
+  },
+  "feed-pull-request-closed-16": {
+    "encodedCode": "\\eace",
+    "prefix": "oi",
+    "className": "oi-feed-pull-request-closed-16",
+    "unicode": "&#60110;"
+  },
+  "feed-pull-request-draft-16": {
+    "encodedCode": "\\eacf",
+    "prefix": "oi",
+    "className": "oi-feed-pull-request-draft-16",
+    "unicode": "&#60111;"
+  },
+  "feed-pull-request-open-16": {
+    "encodedCode": "\\ead0",
+    "prefix": "oi",
+    "className": "oi-feed-pull-request-open-16",
+    "unicode": "&#60112;"
+  },
+  "feed-repo-16": {
+    "encodedCode": "\\ead1",
+    "prefix": "oi",
+    "className": "oi-feed-repo-16",
+    "unicode": "&#60113;"
+  },
+  "feed-rocket-16": {
+    "encodedCode": "\\ead2",
+    "prefix": "oi",
+    "className": "oi-feed-rocket-16",
+    "unicode": "&#60114;"
+  },
+  "feed-star-16": {
+    "encodedCode": "\\ead3",
+    "prefix": "oi",
+    "className": "oi-feed-star-16",
+    "unicode": "&#60115;"
+  },
+  "feed-tag-16": {
+    "encodedCode": "\\ead4",
+    "prefix": "oi",
+    "className": "oi-feed-tag-16",
+    "unicode": "&#60116;"
+  },
+  "feed-trophy-16": {
+    "encodedCode": "\\ead5",
+    "prefix": "oi",
+    "className": "oi-feed-trophy-16",
+    "unicode": "&#60117;"
+  },
+  "file-16": {
+    "encodedCode": "\\ead6",
+    "prefix": "oi",
+    "className": "oi-file-16",
+    "unicode": "&#60118;"
+  },
+  "file-24": {
+    "encodedCode": "\\ead7",
+    "prefix": "oi",
+    "className": "oi-file-24",
+    "unicode": "&#60119;"
+  },
+  "file-added-16": {
+    "encodedCode": "\\ead8",
+    "prefix": "oi",
+    "className": "oi-file-added-16",
+    "unicode": "&#60120;"
+  },
+  "file-added-24": {
+    "encodedCode": "\\ead9",
+    "prefix": "oi",
+    "className": "oi-file-added-24",
+    "unicode": "&#60121;"
+  },
+  "file-badge-16": {
+    "encodedCode": "\\eada",
+    "prefix": "oi",
+    "className": "oi-file-badge-16",
+    "unicode": "&#60122;"
+  },
+  "file-badge-24": {
+    "encodedCode": "\\eadb",
+    "prefix": "oi",
+    "className": "oi-file-badge-24",
+    "unicode": "&#60123;"
+  },
+  "file-binary-16": {
+    "encodedCode": "\\eadc",
+    "prefix": "oi",
+    "className": "oi-file-binary-16",
+    "unicode": "&#60124;"
+  },
+  "file-binary-24": {
+    "encodedCode": "\\eadd",
+    "prefix": "oi",
+    "className": "oi-file-binary-24",
+    "unicode": "&#60125;"
+  },
+  "file-code-16": {
+    "encodedCode": "\\eade",
+    "prefix": "oi",
+    "className": "oi-file-code-16",
+    "unicode": "&#60126;"
+  },
+  "file-code-24": {
+    "encodedCode": "\\eadf",
+    "prefix": "oi",
+    "className": "oi-file-code-24",
+    "unicode": "&#60127;"
+  },
+  "file-diff-16": {
+    "encodedCode": "\\eae0",
+    "prefix": "oi",
+    "className": "oi-file-diff-16",
+    "unicode": "&#60128;"
+  },
+  "file-diff-24": {
+    "encodedCode": "\\eae1",
+    "prefix": "oi",
+    "className": "oi-file-diff-24",
+    "unicode": "&#60129;"
+  },
+  "file-directory-16": {
+    "encodedCode": "\\eae2",
+    "prefix": "oi",
+    "className": "oi-file-directory-16",
+    "unicode": "&#60130;"
+  },
+  "file-directory-24": {
+    "encodedCode": "\\eae3",
+    "prefix": "oi",
+    "className": "oi-file-directory-24",
+    "unicode": "&#60131;"
+  },
+  "file-directory-fill-16": {
+    "encodedCode": "\\eae4",
+    "prefix": "oi",
+    "className": "oi-file-directory-fill-16",
+    "unicode": "&#60132;"
+  },
+  "file-directory-fill-24": {
+    "encodedCode": "\\eae5",
+    "prefix": "oi",
+    "className": "oi-file-directory-fill-24",
+    "unicode": "&#60133;"
+  },
+  "file-directory-open-fill-16": {
+    "encodedCode": "\\eae6",
+    "prefix": "oi",
+    "className": "oi-file-directory-open-fill-16",
+    "unicode": "&#60134;"
+  },
+  "file-directory-open-fill-24": {
+    "encodedCode": "\\eae7",
+    "prefix": "oi",
+    "className": "oi-file-directory-open-fill-24",
+    "unicode": "&#60135;"
+  },
+  "file-directory-symlink-16": {
+    "encodedCode": "\\eae8",
+    "prefix": "oi",
+    "className": "oi-file-directory-symlink-16",
+    "unicode": "&#60136;"
+  },
+  "file-directory-symlink-24": {
+    "encodedCode": "\\eae9",
+    "prefix": "oi",
+    "className": "oi-file-directory-symlink-24",
+    "unicode": "&#60137;"
+  },
+  "file-media-16": {
+    "encodedCode": "\\eaea",
+    "prefix": "oi",
+    "className": "oi-file-media-16",
+    "unicode": "&#60138;"
+  },
+  "file-media-24": {
+    "encodedCode": "\\eaeb",
+    "prefix": "oi",
+    "className": "oi-file-media-24",
+    "unicode": "&#60139;"
+  },
+  "file-moved-16": {
+    "encodedCode": "\\eaec",
+    "prefix": "oi",
+    "className": "oi-file-moved-16",
+    "unicode": "&#60140;"
+  },
+  "file-moved-24": {
+    "encodedCode": "\\eaed",
+    "prefix": "oi",
+    "className": "oi-file-moved-24",
+    "unicode": "&#60141;"
+  },
+  "file-removed-16": {
+    "encodedCode": "\\eaee",
+    "prefix": "oi",
+    "className": "oi-file-removed-16",
+    "unicode": "&#60142;"
+  },
+  "file-removed-24": {
+    "encodedCode": "\\eaef",
+    "prefix": "oi",
+    "className": "oi-file-removed-24",
+    "unicode": "&#60143;"
+  },
+  "file-submodule-16": {
+    "encodedCode": "\\eaf0",
+    "prefix": "oi",
+    "className": "oi-file-submodule-16",
+    "unicode": "&#60144;"
+  },
+  "file-submodule-24": {
+    "encodedCode": "\\eaf1",
+    "prefix": "oi",
+    "className": "oi-file-submodule-24",
+    "unicode": "&#60145;"
+  },
+  "file-symlink-file-16": {
+    "encodedCode": "\\eaf2",
+    "prefix": "oi",
+    "className": "oi-file-symlink-file-16",
+    "unicode": "&#60146;"
+  },
+  "file-symlink-file-24": {
+    "encodedCode": "\\eaf3",
+    "prefix": "oi",
+    "className": "oi-file-symlink-file-24",
+    "unicode": "&#60147;"
+  },
+  "file-zip-16": {
+    "encodedCode": "\\eaf4",
+    "prefix": "oi",
+    "className": "oi-file-zip-16",
+    "unicode": "&#60148;"
+  },
+  "file-zip-24": {
+    "encodedCode": "\\eaf5",
+    "prefix": "oi",
+    "className": "oi-file-zip-24",
+    "unicode": "&#60149;"
+  },
+  "filter-16": {
+    "encodedCode": "\\eaf6",
+    "prefix": "oi",
+    "className": "oi-filter-16",
+    "unicode": "&#60150;"
+  },
+  "filter-24": {
+    "encodedCode": "\\eaf7",
+    "prefix": "oi",
+    "className": "oi-filter-24",
+    "unicode": "&#60151;"
+  },
+  "filter-remove-16": {
+    "encodedCode": "\\eaf8",
+    "prefix": "oi",
+    "className": "oi-filter-remove-16",
+    "unicode": "&#60152;"
+  },
+  "filter-remove-24": {
+    "encodedCode": "\\eaf9",
+    "prefix": "oi",
+    "className": "oi-filter-remove-24",
+    "unicode": "&#60153;"
+  },
+  "fiscal-host-16": {
+    "encodedCode": "\\eafa",
+    "prefix": "oi",
+    "className": "oi-fiscal-host-16",
+    "unicode": "&#60154;"
+  },
+  "fiscal-host-24": {
+    "encodedCode": "\\eafb",
+    "prefix": "oi",
+    "className": "oi-fiscal-host-24",
+    "unicode": "&#60155;"
+  },
+  "flame-16": {
+    "encodedCode": "\\eafc",
+    "prefix": "oi",
+    "className": "oi-flame-16",
+    "unicode": "&#60156;"
+  },
+  "flame-24": {
+    "encodedCode": "\\eafd",
+    "prefix": "oi",
+    "className": "oi-flame-24",
+    "unicode": "&#60157;"
+  },
+  "fold-16": {
+    "encodedCode": "\\eafe",
+    "prefix": "oi",
+    "className": "oi-fold-16",
+    "unicode": "&#60158;"
+  },
+  "fold-24": {
+    "encodedCode": "\\eaff",
+    "prefix": "oi",
+    "className": "oi-fold-24",
+    "unicode": "&#60159;"
+  },
+  "fold-down-16": {
+    "encodedCode": "\\eb00",
+    "prefix": "oi",
+    "className": "oi-fold-down-16",
+    "unicode": "&#60160;"
+  },
+  "fold-down-24": {
+    "encodedCode": "\\eb01",
+    "prefix": "oi",
+    "className": "oi-fold-down-24",
+    "unicode": "&#60161;"
+  },
+  "fold-up-16": {
+    "encodedCode": "\\eb02",
+    "prefix": "oi",
+    "className": "oi-fold-up-16",
+    "unicode": "&#60162;"
+  },
+  "fold-up-24": {
+    "encodedCode": "\\eb03",
+    "prefix": "oi",
+    "className": "oi-fold-up-24",
+    "unicode": "&#60163;"
+  },
+  "gear-16": {
+    "encodedCode": "\\eb04",
+    "prefix": "oi",
+    "className": "oi-gear-16",
+    "unicode": "&#60164;"
+  },
+  "gear-24": {
+    "encodedCode": "\\eb05",
+    "prefix": "oi",
+    "className": "oi-gear-24",
+    "unicode": "&#60165;"
+  },
+  "gift-16": {
+    "encodedCode": "\\eb06",
+    "prefix": "oi",
+    "className": "oi-gift-16",
+    "unicode": "&#60166;"
+  },
+  "gift-24": {
+    "encodedCode": "\\eb07",
+    "prefix": "oi",
+    "className": "oi-gift-24",
+    "unicode": "&#60167;"
+  },
+  "git-branch-16": {
+    "encodedCode": "\\eb08",
+    "prefix": "oi",
+    "className": "oi-git-branch-16",
+    "unicode": "&#60168;"
+  },
+  "git-branch-24": {
+    "encodedCode": "\\eb09",
+    "prefix": "oi",
+    "className": "oi-git-branch-24",
+    "unicode": "&#60169;"
+  },
+  "git-commit-16": {
+    "encodedCode": "\\eb0a",
+    "prefix": "oi",
+    "className": "oi-git-commit-16",
+    "unicode": "&#60170;"
+  },
+  "git-commit-24": {
+    "encodedCode": "\\eb0b",
+    "prefix": "oi",
+    "className": "oi-git-commit-24",
+    "unicode": "&#60171;"
+  },
+  "git-compare-16": {
+    "encodedCode": "\\eb0c",
+    "prefix": "oi",
+    "className": "oi-git-compare-16",
+    "unicode": "&#60172;"
+  },
+  "git-compare-24": {
+    "encodedCode": "\\eb0d",
+    "prefix": "oi",
+    "className": "oi-git-compare-24",
+    "unicode": "&#60173;"
+  },
+  "git-merge-16": {
+    "encodedCode": "\\eb0e",
+    "prefix": "oi",
+    "className": "oi-git-merge-16",
+    "unicode": "&#60174;"
+  },
+  "git-merge-24": {
+    "encodedCode": "\\eb0f",
+    "prefix": "oi",
+    "className": "oi-git-merge-24",
+    "unicode": "&#60175;"
+  },
+  "git-merge-queue-16": {
+    "encodedCode": "\\eb10",
+    "prefix": "oi",
+    "className": "oi-git-merge-queue-16",
+    "unicode": "&#60176;"
+  },
+  "git-merge-queue-24": {
+    "encodedCode": "\\eb11",
+    "prefix": "oi",
+    "className": "oi-git-merge-queue-24",
+    "unicode": "&#60177;"
+  },
+  "git-pull-request-16": {
+    "encodedCode": "\\eb12",
+    "prefix": "oi",
+    "className": "oi-git-pull-request-16",
+    "unicode": "&#60178;"
+  },
+  "git-pull-request-24": {
+    "encodedCode": "\\eb13",
+    "prefix": "oi",
+    "className": "oi-git-pull-request-24",
+    "unicode": "&#60179;"
+  },
+  "git-pull-request-closed-16": {
+    "encodedCode": "\\eb14",
+    "prefix": "oi",
+    "className": "oi-git-pull-request-closed-16",
+    "unicode": "&#60180;"
+  },
+  "git-pull-request-closed-24": {
+    "encodedCode": "\\eb15",
+    "prefix": "oi",
+    "className": "oi-git-pull-request-closed-24",
+    "unicode": "&#60181;"
+  },
+  "git-pull-request-draft-16": {
+    "encodedCode": "\\eb16",
+    "prefix": "oi",
+    "className": "oi-git-pull-request-draft-16",
+    "unicode": "&#60182;"
+  },
+  "git-pull-request-draft-24": {
+    "encodedCode": "\\eb17",
+    "prefix": "oi",
+    "className": "oi-git-pull-request-draft-24",
+    "unicode": "&#60183;"
+  },
+  "globe-16": {
+    "encodedCode": "\\eb18",
+    "prefix": "oi",
+    "className": "oi-globe-16",
+    "unicode": "&#60184;"
+  },
+  "globe-24": {
+    "encodedCode": "\\eb19",
+    "prefix": "oi",
+    "className": "oi-globe-24",
+    "unicode": "&#60185;"
+  },
+  "goal-16": {
+    "encodedCode": "\\eb1a",
+    "prefix": "oi",
+    "className": "oi-goal-16",
+    "unicode": "&#60186;"
+  },
+  "goal-24": {
+    "encodedCode": "\\eb1b",
+    "prefix": "oi",
+    "className": "oi-goal-24",
+    "unicode": "&#60187;"
+  },
+  "grabber-16": {
+    "encodedCode": "\\eb1c",
+    "prefix": "oi",
+    "className": "oi-grabber-16",
+    "unicode": "&#60188;"
+  },
+  "grabber-24": {
+    "encodedCode": "\\eb1d",
+    "prefix": "oi",
+    "className": "oi-grabber-24",
+    "unicode": "&#60189;"
+  },
+  "graph-16": {
+    "encodedCode": "\\eb1e",
+    "prefix": "oi",
+    "className": "oi-graph-16",
+    "unicode": "&#60190;"
+  },
+  "graph-24": {
+    "encodedCode": "\\eb1f",
+    "prefix": "oi",
+    "className": "oi-graph-24",
+    "unicode": "&#60191;"
+  },
+  "hash-16": {
+    "encodedCode": "\\eb20",
+    "prefix": "oi",
+    "className": "oi-hash-16",
+    "unicode": "&#60192;"
+  },
+  "hash-24": {
+    "encodedCode": "\\eb21",
+    "prefix": "oi",
+    "className": "oi-hash-24",
+    "unicode": "&#60193;"
+  },
+  "heading-16": {
+    "encodedCode": "\\eb22",
+    "prefix": "oi",
+    "className": "oi-heading-16",
+    "unicode": "&#60194;"
+  },
+  "heading-24": {
+    "encodedCode": "\\eb23",
+    "prefix": "oi",
+    "className": "oi-heading-24",
+    "unicode": "&#60195;"
+  },
+  "heart-16": {
+    "encodedCode": "\\eb24",
+    "prefix": "oi",
+    "className": "oi-heart-16",
+    "unicode": "&#60196;"
+  },
+  "heart-24": {
+    "encodedCode": "\\eb25",
+    "prefix": "oi",
+    "className": "oi-heart-24",
+    "unicode": "&#60197;"
+  },
+  "heart-fill-16": {
+    "encodedCode": "\\eb26",
+    "prefix": "oi",
+    "className": "oi-heart-fill-16",
+    "unicode": "&#60198;"
+  },
+  "heart-fill-24": {
+    "encodedCode": "\\eb27",
+    "prefix": "oi",
+    "className": "oi-heart-fill-24",
+    "unicode": "&#60199;"
+  },
+  "history-16": {
+    "encodedCode": "\\eb28",
+    "prefix": "oi",
+    "className": "oi-history-16",
+    "unicode": "&#60200;"
+  },
+  "history-24": {
+    "encodedCode": "\\eb29",
+    "prefix": "oi",
+    "className": "oi-history-24",
+    "unicode": "&#60201;"
+  },
+  "home-16": {
+    "encodedCode": "\\eb2a",
+    "prefix": "oi",
+    "className": "oi-home-16",
+    "unicode": "&#60202;"
+  },
+  "home-24": {
+    "encodedCode": "\\eb2b",
+    "prefix": "oi",
+    "className": "oi-home-24",
+    "unicode": "&#60203;"
+  },
+  "home-fill-16": {
+    "encodedCode": "\\eb2c",
+    "prefix": "oi",
+    "className": "oi-home-fill-16",
+    "unicode": "&#60204;"
+  },
+  "home-fill-24": {
+    "encodedCode": "\\eb2d",
+    "prefix": "oi",
+    "className": "oi-home-fill-24",
+    "unicode": "&#60205;"
+  },
+  "horizontal-rule-16": {
+    "encodedCode": "\\eb2e",
+    "prefix": "oi",
+    "className": "oi-horizontal-rule-16",
+    "unicode": "&#60206;"
+  },
+  "horizontal-rule-24": {
+    "encodedCode": "\\eb2f",
+    "prefix": "oi",
+    "className": "oi-horizontal-rule-24",
+    "unicode": "&#60207;"
+  },
+  "hourglass-16": {
+    "encodedCode": "\\eb30",
+    "prefix": "oi",
+    "className": "oi-hourglass-16",
+    "unicode": "&#60208;"
+  },
+  "hourglass-24": {
+    "encodedCode": "\\eb31",
+    "prefix": "oi",
+    "className": "oi-hourglass-24",
+    "unicode": "&#60209;"
+  },
+  "hubot-16": {
+    "encodedCode": "\\eb32",
+    "prefix": "oi",
+    "className": "oi-hubot-16",
+    "unicode": "&#60210;"
+  },
+  "hubot-24": {
+    "encodedCode": "\\eb33",
+    "prefix": "oi",
+    "className": "oi-hubot-24",
+    "unicode": "&#60211;"
+  },
+  "id-badge-16": {
+    "encodedCode": "\\eb34",
+    "prefix": "oi",
+    "className": "oi-id-badge-16",
+    "unicode": "&#60212;"
+  },
+  "id-badge-24": {
+    "encodedCode": "\\eb35",
+    "prefix": "oi",
+    "className": "oi-id-badge-24",
+    "unicode": "&#60213;"
+  },
+  "image-16": {
+    "encodedCode": "\\eb36",
+    "prefix": "oi",
+    "className": "oi-image-16",
+    "unicode": "&#60214;"
+  },
+  "image-24": {
+    "encodedCode": "\\eb37",
+    "prefix": "oi",
+    "className": "oi-image-24",
+    "unicode": "&#60215;"
+  },
+  "inbox-16": {
+    "encodedCode": "\\eb38",
+    "prefix": "oi",
+    "className": "oi-inbox-16",
+    "unicode": "&#60216;"
+  },
+  "inbox-24": {
+    "encodedCode": "\\eb39",
+    "prefix": "oi",
+    "className": "oi-inbox-24",
+    "unicode": "&#60217;"
+  },
+  "infinity-16": {
+    "encodedCode": "\\eb3a",
+    "prefix": "oi",
+    "className": "oi-infinity-16",
+    "unicode": "&#60218;"
+  },
+  "infinity-24": {
+    "encodedCode": "\\eb3b",
+    "prefix": "oi",
+    "className": "oi-infinity-24",
+    "unicode": "&#60219;"
+  },
+  "info-16": {
+    "encodedCode": "\\eb3c",
+    "prefix": "oi",
+    "className": "oi-info-16",
+    "unicode": "&#60220;"
+  },
+  "info-24": {
+    "encodedCode": "\\eb3d",
+    "prefix": "oi",
+    "className": "oi-info-24",
+    "unicode": "&#60221;"
+  },
+  "issue-closed-16": {
+    "encodedCode": "\\eb3e",
+    "prefix": "oi",
+    "className": "oi-issue-closed-16",
+    "unicode": "&#60222;"
+  },
+  "issue-closed-24": {
+    "encodedCode": "\\eb3f",
+    "prefix": "oi",
+    "className": "oi-issue-closed-24",
+    "unicode": "&#60223;"
+  },
+  "issue-draft-16": {
+    "encodedCode": "\\eb40",
+    "prefix": "oi",
+    "className": "oi-issue-draft-16",
+    "unicode": "&#60224;"
+  },
+  "issue-draft-24": {
+    "encodedCode": "\\eb41",
+    "prefix": "oi",
+    "className": "oi-issue-draft-24",
+    "unicode": "&#60225;"
+  },
+  "issue-opened-16": {
+    "encodedCode": "\\eb42",
+    "prefix": "oi",
+    "className": "oi-issue-opened-16",
+    "unicode": "&#60226;"
+  },
+  "issue-opened-24": {
+    "encodedCode": "\\eb43",
+    "prefix": "oi",
+    "className": "oi-issue-opened-24",
+    "unicode": "&#60227;"
+  },
+  "issue-reopened-16": {
+    "encodedCode": "\\eb44",
+    "prefix": "oi",
+    "className": "oi-issue-reopened-16",
+    "unicode": "&#60228;"
+  },
+  "issue-reopened-24": {
+    "encodedCode": "\\eb45",
+    "prefix": "oi",
+    "className": "oi-issue-reopened-24",
+    "unicode": "&#60229;"
+  },
+  "issue-tracked-by-16": {
+    "encodedCode": "\\eb46",
+    "prefix": "oi",
+    "className": "oi-issue-tracked-by-16",
+    "unicode": "&#60230;"
+  },
+  "issue-tracked-by-24": {
+    "encodedCode": "\\eb47",
+    "prefix": "oi",
+    "className": "oi-issue-tracked-by-24",
+    "unicode": "&#60231;"
+  },
+  "issue-tracks-16": {
+    "encodedCode": "\\eb48",
+    "prefix": "oi",
+    "className": "oi-issue-tracks-16",
+    "unicode": "&#60232;"
+  },
+  "issue-tracks-24": {
+    "encodedCode": "\\eb49",
+    "prefix": "oi",
+    "className": "oi-issue-tracks-24",
+    "unicode": "&#60233;"
+  },
+  "italic-16": {
+    "encodedCode": "\\eb4a",
+    "prefix": "oi",
+    "className": "oi-italic-16",
+    "unicode": "&#60234;"
+  },
+  "italic-24": {
+    "encodedCode": "\\eb4b",
+    "prefix": "oi",
+    "className": "oi-italic-24",
+    "unicode": "&#60235;"
+  },
+  "iterations-16": {
+    "encodedCode": "\\eb4c",
+    "prefix": "oi",
+    "className": "oi-iterations-16",
+    "unicode": "&#60236;"
+  },
+  "iterations-24": {
+    "encodedCode": "\\eb4d",
+    "prefix": "oi",
+    "className": "oi-iterations-24",
+    "unicode": "&#60237;"
+  },
+  "kebab-horizontal-16": {
+    "encodedCode": "\\eb4e",
+    "prefix": "oi",
+    "className": "oi-kebab-horizontal-16",
+    "unicode": "&#60238;"
+  },
+  "kebab-horizontal-24": {
+    "encodedCode": "\\eb4f",
+    "prefix": "oi",
+    "className": "oi-kebab-horizontal-24",
+    "unicode": "&#60239;"
+  },
+  "key-16": {
+    "encodedCode": "\\eb50",
+    "prefix": "oi",
+    "className": "oi-key-16",
+    "unicode": "&#60240;"
+  },
+  "key-24": {
+    "encodedCode": "\\eb51",
+    "prefix": "oi",
+    "className": "oi-key-24",
+    "unicode": "&#60241;"
+  },
+  "key-asterisk-16": {
+    "encodedCode": "\\eb52",
+    "prefix": "oi",
+    "className": "oi-key-asterisk-16",
+    "unicode": "&#60242;"
+  },
+  "key-asterisk-24": {
+    "encodedCode": "\\eb53",
+    "prefix": "oi",
+    "className": "oi-key-asterisk-24",
+    "unicode": "&#60243;"
+  },
+  "law-16": {
+    "encodedCode": "\\eb54",
+    "prefix": "oi",
+    "className": "oi-law-16",
+    "unicode": "&#60244;"
+  },
+  "law-24": {
+    "encodedCode": "\\eb55",
+    "prefix": "oi",
+    "className": "oi-law-24",
+    "unicode": "&#60245;"
+  },
+  "light-bulb-16": {
+    "encodedCode": "\\eb56",
+    "prefix": "oi",
+    "className": "oi-light-bulb-16",
+    "unicode": "&#60246;"
+  },
+  "light-bulb-24": {
+    "encodedCode": "\\eb57",
+    "prefix": "oi",
+    "className": "oi-light-bulb-24",
+    "unicode": "&#60247;"
+  },
+  "link-16": {
+    "encodedCode": "\\eb58",
+    "prefix": "oi",
+    "className": "oi-link-16",
+    "unicode": "&#60248;"
+  },
+  "link-24": {
+    "encodedCode": "\\eb59",
+    "prefix": "oi",
+    "className": "oi-link-24",
+    "unicode": "&#60249;"
+  },
+  "link-external-16": {
+    "encodedCode": "\\eb5a",
+    "prefix": "oi",
+    "className": "oi-link-external-16",
+    "unicode": "&#60250;"
+  },
+  "link-external-24": {
+    "encodedCode": "\\eb5b",
+    "prefix": "oi",
+    "className": "oi-link-external-24",
+    "unicode": "&#60251;"
+  },
+  "list-ordered-16": {
+    "encodedCode": "\\eb5c",
+    "prefix": "oi",
+    "className": "oi-list-ordered-16",
+    "unicode": "&#60252;"
+  },
+  "list-ordered-24": {
+    "encodedCode": "\\eb5d",
+    "prefix": "oi",
+    "className": "oi-list-ordered-24",
+    "unicode": "&#60253;"
+  },
+  "list-unordered-16": {
+    "encodedCode": "\\eb5e",
+    "prefix": "oi",
+    "className": "oi-list-unordered-16",
+    "unicode": "&#60254;"
+  },
+  "list-unordered-24": {
+    "encodedCode": "\\eb5f",
+    "prefix": "oi",
+    "className": "oi-list-unordered-24",
+    "unicode": "&#60255;"
+  },
+  "location-16": {
+    "encodedCode": "\\eb60",
+    "prefix": "oi",
+    "className": "oi-location-16",
+    "unicode": "&#60256;"
+  },
+  "location-24": {
+    "encodedCode": "\\eb61",
+    "prefix": "oi",
+    "className": "oi-location-24",
+    "unicode": "&#60257;"
+  },
+  "lock-16": {
+    "encodedCode": "\\eb62",
+    "prefix": "oi",
+    "className": "oi-lock-16",
+    "unicode": "&#60258;"
+  },
+  "lock-24": {
+    "encodedCode": "\\eb63",
+    "prefix": "oi",
+    "className": "oi-lock-24",
+    "unicode": "&#60259;"
+  },
+  "log-16": {
+    "encodedCode": "\\eb64",
+    "prefix": "oi",
+    "className": "oi-log-16",
+    "unicode": "&#60260;"
+  },
+  "log-24": {
+    "encodedCode": "\\eb65",
+    "prefix": "oi",
+    "className": "oi-log-24",
+    "unicode": "&#60261;"
+  },
+  "logo-gist-16": {
+    "encodedCode": "\\eb66",
+    "prefix": "oi",
+    "className": "oi-logo-gist-16",
+    "unicode": "&#60262;"
+  },
+  "logo-gist-24": {
+    "encodedCode": "\\eb67",
+    "prefix": "oi",
+    "className": "oi-logo-gist-24",
+    "unicode": "&#60263;"
+  },
+  "logo-github-16": {
+    "encodedCode": "\\eb68",
+    "prefix": "oi",
+    "className": "oi-logo-github-16",
+    "unicode": "&#60264;"
+  },
+  "logo-github-24": {
+    "encodedCode": "\\eb69",
+    "prefix": "oi",
+    "className": "oi-logo-github-24",
+    "unicode": "&#60265;"
+  },
+  "mail-16": {
+    "encodedCode": "\\eb6a",
+    "prefix": "oi",
+    "className": "oi-mail-16",
+    "unicode": "&#60266;"
+  },
+  "mail-24": {
+    "encodedCode": "\\eb6b",
+    "prefix": "oi",
+    "className": "oi-mail-24",
+    "unicode": "&#60267;"
+  },
+  "mark-github-16": {
+    "encodedCode": "\\eb6c",
+    "prefix": "oi",
+    "className": "oi-mark-github-16",
+    "unicode": "&#60268;"
+  },
+  "mark-github-24": {
+    "encodedCode": "\\eb6d",
+    "prefix": "oi",
+    "className": "oi-mark-github-24",
+    "unicode": "&#60269;"
+  },
+  "markdown-16": {
+    "encodedCode": "\\eb6e",
+    "prefix": "oi",
+    "className": "oi-markdown-16",
+    "unicode": "&#60270;"
+  },
+  "markdown-24": {
+    "encodedCode": "\\eb6f",
+    "prefix": "oi",
+    "className": "oi-markdown-24",
+    "unicode": "&#60271;"
+  },
+  "megaphone-16": {
+    "encodedCode": "\\eb70",
+    "prefix": "oi",
+    "className": "oi-megaphone-16",
+    "unicode": "&#60272;"
+  },
+  "megaphone-24": {
+    "encodedCode": "\\eb71",
+    "prefix": "oi",
+    "className": "oi-megaphone-24",
+    "unicode": "&#60273;"
+  },
+  "mention-16": {
+    "encodedCode": "\\eb72",
+    "prefix": "oi",
+    "className": "oi-mention-16",
+    "unicode": "&#60274;"
+  },
+  "mention-24": {
+    "encodedCode": "\\eb73",
+    "prefix": "oi",
+    "className": "oi-mention-24",
+    "unicode": "&#60275;"
+  },
+  "meter-16": {
+    "encodedCode": "\\eb74",
+    "prefix": "oi",
+    "className": "oi-meter-16",
+    "unicode": "&#60276;"
+  },
+  "meter-24": {
+    "encodedCode": "\\eb75",
+    "prefix": "oi",
+    "className": "oi-meter-24",
+    "unicode": "&#60277;"
+  },
+  "milestone-16": {
+    "encodedCode": "\\eb76",
+    "prefix": "oi",
+    "className": "oi-milestone-16",
+    "unicode": "&#60278;"
+  },
+  "milestone-24": {
+    "encodedCode": "\\eb77",
+    "prefix": "oi",
+    "className": "oi-milestone-24",
+    "unicode": "&#60279;"
+  },
+  "mirror-16": {
+    "encodedCode": "\\eb78",
+    "prefix": "oi",
+    "className": "oi-mirror-16",
+    "unicode": "&#60280;"
+  },
+  "mirror-24": {
+    "encodedCode": "\\eb79",
+    "prefix": "oi",
+    "className": "oi-mirror-24",
+    "unicode": "&#60281;"
+  },
+  "moon-16": {
+    "encodedCode": "\\eb7a",
+    "prefix": "oi",
+    "className": "oi-moon-16",
+    "unicode": "&#60282;"
+  },
+  "moon-24": {
+    "encodedCode": "\\eb7b",
+    "prefix": "oi",
+    "className": "oi-moon-24",
+    "unicode": "&#60283;"
+  },
+  "mortar-board-16": {
+    "encodedCode": "\\eb7c",
+    "prefix": "oi",
+    "className": "oi-mortar-board-16",
+    "unicode": "&#60284;"
+  },
+  "mortar-board-24": {
+    "encodedCode": "\\eb7d",
+    "prefix": "oi",
+    "className": "oi-mortar-board-24",
+    "unicode": "&#60285;"
+  },
+  "move-to-bottom-16": {
+    "encodedCode": "\\eb7e",
+    "prefix": "oi",
+    "className": "oi-move-to-bottom-16",
+    "unicode": "&#60286;"
+  },
+  "move-to-bottom-24": {
+    "encodedCode": "\\eb7f",
+    "prefix": "oi",
+    "className": "oi-move-to-bottom-24",
+    "unicode": "&#60287;"
+  },
+  "move-to-end-16": {
+    "encodedCode": "\\eb80",
+    "prefix": "oi",
+    "className": "oi-move-to-end-16",
+    "unicode": "&#60288;"
+  },
+  "move-to-end-24": {
+    "encodedCode": "\\eb81",
+    "prefix": "oi",
+    "className": "oi-move-to-end-24",
+    "unicode": "&#60289;"
+  },
+  "move-to-start-16": {
+    "encodedCode": "\\eb82",
+    "prefix": "oi",
+    "className": "oi-move-to-start-16",
+    "unicode": "&#60290;"
+  },
+  "move-to-start-24": {
+    "encodedCode": "\\eb83",
+    "prefix": "oi",
+    "className": "oi-move-to-start-24",
+    "unicode": "&#60291;"
+  },
+  "move-to-top-16": {
+    "encodedCode": "\\eb84",
+    "prefix": "oi",
+    "className": "oi-move-to-top-16",
+    "unicode": "&#60292;"
+  },
+  "move-to-top-24": {
+    "encodedCode": "\\eb85",
+    "prefix": "oi",
+    "className": "oi-move-to-top-24",
+    "unicode": "&#60293;"
+  },
+  "multi-select-16": {
+    "encodedCode": "\\eb86",
+    "prefix": "oi",
+    "className": "oi-multi-select-16",
+    "unicode": "&#60294;"
+  },
+  "multi-select-24": {
+    "encodedCode": "\\eb87",
+    "prefix": "oi",
+    "className": "oi-multi-select-24",
+    "unicode": "&#60295;"
+  },
+  "mute-16": {
+    "encodedCode": "\\eb88",
+    "prefix": "oi",
+    "className": "oi-mute-16",
+    "unicode": "&#60296;"
+  },
+  "mute-24": {
+    "encodedCode": "\\eb89",
+    "prefix": "oi",
+    "className": "oi-mute-24",
+    "unicode": "&#60297;"
+  },
+  "no-entry-16": {
+    "encodedCode": "\\eb8a",
+    "prefix": "oi",
+    "className": "oi-no-entry-16",
+    "unicode": "&#60298;"
+  },
+  "no-entry-24": {
+    "encodedCode": "\\eb8b",
+    "prefix": "oi",
+    "className": "oi-no-entry-24",
+    "unicode": "&#60299;"
+  },
+  "no-entry-fill-12": {
+    "encodedCode": "\\eb8c",
+    "prefix": "oi",
+    "className": "oi-no-entry-fill-12",
+    "unicode": "&#60300;"
+  },
+  "north-star-16": {
+    "encodedCode": "\\eb8d",
+    "prefix": "oi",
+    "className": "oi-north-star-16",
+    "unicode": "&#60301;"
+  },
+  "north-star-24": {
+    "encodedCode": "\\eb8e",
+    "prefix": "oi",
+    "className": "oi-north-star-24",
+    "unicode": "&#60302;"
+  },
+  "note-16": {
+    "encodedCode": "\\eb8f",
+    "prefix": "oi",
+    "className": "oi-note-16",
+    "unicode": "&#60303;"
+  },
+  "note-24": {
+    "encodedCode": "\\eb90",
+    "prefix": "oi",
+    "className": "oi-note-24",
+    "unicode": "&#60304;"
+  },
+  "number-16": {
+    "encodedCode": "\\eb91",
+    "prefix": "oi",
+    "className": "oi-number-16",
+    "unicode": "&#60305;"
+  },
+  "number-24": {
+    "encodedCode": "\\eb92",
+    "prefix": "oi",
+    "className": "oi-number-24",
+    "unicode": "&#60306;"
+  },
+  "organization-16": {
+    "encodedCode": "\\eb93",
+    "prefix": "oi",
+    "className": "oi-organization-16",
+    "unicode": "&#60307;"
+  },
+  "organization-24": {
+    "encodedCode": "\\eb94",
+    "prefix": "oi",
+    "className": "oi-organization-24",
+    "unicode": "&#60308;"
+  },
+  "package-16": {
+    "encodedCode": "\\eb95",
+    "prefix": "oi",
+    "className": "oi-package-16",
+    "unicode": "&#60309;"
+  },
+  "package-24": {
+    "encodedCode": "\\eb96",
+    "prefix": "oi",
+    "className": "oi-package-24",
+    "unicode": "&#60310;"
+  },
+  "package-dependencies-16": {
+    "encodedCode": "\\eb97",
+    "prefix": "oi",
+    "className": "oi-package-dependencies-16",
+    "unicode": "&#60311;"
+  },
+  "package-dependencies-24": {
+    "encodedCode": "\\eb98",
+    "prefix": "oi",
+    "className": "oi-package-dependencies-24",
+    "unicode": "&#60312;"
+  },
+  "package-dependents-16": {
+    "encodedCode": "\\eb99",
+    "prefix": "oi",
+    "className": "oi-package-dependents-16",
+    "unicode": "&#60313;"
+  },
+  "package-dependents-24": {
+    "encodedCode": "\\eb9a",
+    "prefix": "oi",
+    "className": "oi-package-dependents-24",
+    "unicode": "&#60314;"
+  },
+  "paintbrush-16": {
+    "encodedCode": "\\eb9b",
+    "prefix": "oi",
+    "className": "oi-paintbrush-16",
+    "unicode": "&#60315;"
+  },
+  "paintbrush-24": {
+    "encodedCode": "\\eb9c",
+    "prefix": "oi",
+    "className": "oi-paintbrush-24",
+    "unicode": "&#60316;"
+  },
+  "paper-airplane-16": {
+    "encodedCode": "\\eb9d",
+    "prefix": "oi",
+    "className": "oi-paper-airplane-16",
+    "unicode": "&#60317;"
+  },
+  "paper-airplane-24": {
+    "encodedCode": "\\eb9e",
+    "prefix": "oi",
+    "className": "oi-paper-airplane-24",
+    "unicode": "&#60318;"
+  },
+  "paperclip-16": {
+    "encodedCode": "\\eb9f",
+    "prefix": "oi",
+    "className": "oi-paperclip-16",
+    "unicode": "&#60319;"
+  },
+  "paperclip-24": {
+    "encodedCode": "\\eba0",
+    "prefix": "oi",
+    "className": "oi-paperclip-24",
+    "unicode": "&#60320;"
+  },
+  "passkey-fill-16": {
+    "encodedCode": "\\eba1",
+    "prefix": "oi",
+    "className": "oi-passkey-fill-16",
+    "unicode": "&#60321;"
+  },
+  "passkey-fill-24": {
+    "encodedCode": "\\eba2",
+    "prefix": "oi",
+    "className": "oi-passkey-fill-24",
+    "unicode": "&#60322;"
+  },
+  "paste-16": {
+    "encodedCode": "\\eba3",
+    "prefix": "oi",
+    "className": "oi-paste-16",
+    "unicode": "&#60323;"
+  },
+  "paste-24": {
+    "encodedCode": "\\eba4",
+    "prefix": "oi",
+    "className": "oi-paste-24",
+    "unicode": "&#60324;"
+  },
+  "pencil-16": {
+    "encodedCode": "\\eba5",
+    "prefix": "oi",
+    "className": "oi-pencil-16",
+    "unicode": "&#60325;"
+  },
+  "pencil-24": {
+    "encodedCode": "\\eba6",
+    "prefix": "oi",
+    "className": "oi-pencil-24",
+    "unicode": "&#60326;"
+  },
+  "people-16": {
+    "encodedCode": "\\eba7",
+    "prefix": "oi",
+    "className": "oi-people-16",
+    "unicode": "&#60327;"
+  },
+  "people-24": {
+    "encodedCode": "\\eba8",
+    "prefix": "oi",
+    "className": "oi-people-24",
+    "unicode": "&#60328;"
+  },
+  "person-16": {
+    "encodedCode": "\\eba9",
+    "prefix": "oi",
+    "className": "oi-person-16",
+    "unicode": "&#60329;"
+  },
+  "person-24": {
+    "encodedCode": "\\ebaa",
+    "prefix": "oi",
+    "className": "oi-person-24",
+    "unicode": "&#60330;"
+  },
+  "person-add-16": {
+    "encodedCode": "\\ebab",
+    "prefix": "oi",
+    "className": "oi-person-add-16",
+    "unicode": "&#60331;"
+  },
+  "person-add-24": {
+    "encodedCode": "\\ebac",
+    "prefix": "oi",
+    "className": "oi-person-add-24",
+    "unicode": "&#60332;"
+  },
+  "person-fill-16": {
+    "encodedCode": "\\ebad",
+    "prefix": "oi",
+    "className": "oi-person-fill-16",
+    "unicode": "&#60333;"
+  },
+  "person-fill-24": {
+    "encodedCode": "\\ebae",
+    "prefix": "oi",
+    "className": "oi-person-fill-24",
+    "unicode": "&#60334;"
+  },
+  "pin-16": {
+    "encodedCode": "\\ebaf",
+    "prefix": "oi",
+    "className": "oi-pin-16",
+    "unicode": "&#60335;"
+  },
+  "pin-24": {
+    "encodedCode": "\\ebb0",
+    "prefix": "oi",
+    "className": "oi-pin-24",
+    "unicode": "&#60336;"
+  },
+  "pin-slash-16": {
+    "encodedCode": "\\ebb1",
+    "prefix": "oi",
+    "className": "oi-pin-slash-16",
+    "unicode": "&#60337;"
+  },
+  "pin-slash-24": {
+    "encodedCode": "\\ebb2",
+    "prefix": "oi",
+    "className": "oi-pin-slash-24",
+    "unicode": "&#60338;"
+  },
+  "pivot-column-16": {
+    "encodedCode": "\\ebb3",
+    "prefix": "oi",
+    "className": "oi-pivot-column-16",
+    "unicode": "&#60339;"
+  },
+  "pivot-column-24": {
+    "encodedCode": "\\ebb4",
+    "prefix": "oi",
+    "className": "oi-pivot-column-24",
+    "unicode": "&#60340;"
+  },
+  "play-16": {
+    "encodedCode": "\\ebb5",
+    "prefix": "oi",
+    "className": "oi-play-16",
+    "unicode": "&#60341;"
+  },
+  "play-24": {
+    "encodedCode": "\\ebb6",
+    "prefix": "oi",
+    "className": "oi-play-24",
+    "unicode": "&#60342;"
+  },
+  "plug-16": {
+    "encodedCode": "\\ebb7",
+    "prefix": "oi",
+    "className": "oi-plug-16",
+    "unicode": "&#60343;"
+  },
+  "plug-24": {
+    "encodedCode": "\\ebb8",
+    "prefix": "oi",
+    "className": "oi-plug-24",
+    "unicode": "&#60344;"
+  },
+  "plus-16": {
+    "encodedCode": "\\ebb9",
+    "prefix": "oi",
+    "className": "oi-plus-16",
+    "unicode": "&#60345;"
+  },
+  "plus-24": {
+    "encodedCode": "\\ebba",
+    "prefix": "oi",
+    "className": "oi-plus-24",
+    "unicode": "&#60346;"
+  },
+  "plus-circle-16": {
+    "encodedCode": "\\ebbb",
+    "prefix": "oi",
+    "className": "oi-plus-circle-16",
+    "unicode": "&#60347;"
+  },
+  "plus-circle-24": {
+    "encodedCode": "\\ebbc",
+    "prefix": "oi",
+    "className": "oi-plus-circle-24",
+    "unicode": "&#60348;"
+  },
+  "project-16": {
+    "encodedCode": "\\ebbd",
+    "prefix": "oi",
+    "className": "oi-project-16",
+    "unicode": "&#60349;"
+  },
+  "project-24": {
+    "encodedCode": "\\ebbe",
+    "prefix": "oi",
+    "className": "oi-project-24",
+    "unicode": "&#60350;"
+  },
+  "project-roadmap-16": {
+    "encodedCode": "\\ebbf",
+    "prefix": "oi",
+    "className": "oi-project-roadmap-16",
+    "unicode": "&#60351;"
+  },
+  "project-roadmap-24": {
+    "encodedCode": "\\ebc0",
+    "prefix": "oi",
+    "className": "oi-project-roadmap-24",
+    "unicode": "&#60352;"
+  },
+  "project-symlink-16": {
+    "encodedCode": "\\ebc1",
+    "prefix": "oi",
+    "className": "oi-project-symlink-16",
+    "unicode": "&#60353;"
+  },
+  "project-symlink-24": {
+    "encodedCode": "\\ebc2",
+    "prefix": "oi",
+    "className": "oi-project-symlink-24",
+    "unicode": "&#60354;"
+  },
+  "project-template-16": {
+    "encodedCode": "\\ebc3",
+    "prefix": "oi",
+    "className": "oi-project-template-16",
+    "unicode": "&#60355;"
+  },
+  "project-template-24": {
+    "encodedCode": "\\ebc4",
+    "prefix": "oi",
+    "className": "oi-project-template-24",
+    "unicode": "&#60356;"
+  },
+  "pulse-16": {
+    "encodedCode": "\\ebc5",
+    "prefix": "oi",
+    "className": "oi-pulse-16",
+    "unicode": "&#60357;"
+  },
+  "pulse-24": {
+    "encodedCode": "\\ebc6",
+    "prefix": "oi",
+    "className": "oi-pulse-24",
+    "unicode": "&#60358;"
+  },
+  "question-16": {
+    "encodedCode": "\\ebc7",
+    "prefix": "oi",
+    "className": "oi-question-16",
+    "unicode": "&#60359;"
+  },
+  "question-24": {
+    "encodedCode": "\\ebc8",
+    "prefix": "oi",
+    "className": "oi-question-24",
+    "unicode": "&#60360;"
+  },
+  "quote-16": {
+    "encodedCode": "\\ebc9",
+    "prefix": "oi",
+    "className": "oi-quote-16",
+    "unicode": "&#60361;"
+  },
+  "quote-24": {
+    "encodedCode": "\\ebca",
+    "prefix": "oi",
+    "className": "oi-quote-24",
+    "unicode": "&#60362;"
+  },
+  "read-16": {
+    "encodedCode": "\\ebcb",
+    "prefix": "oi",
+    "className": "oi-read-16",
+    "unicode": "&#60363;"
+  },
+  "read-24": {
+    "encodedCode": "\\ebcc",
+    "prefix": "oi",
+    "className": "oi-read-24",
+    "unicode": "&#60364;"
+  },
+  "redo-16": {
+    "encodedCode": "\\ebcd",
+    "prefix": "oi",
+    "className": "oi-redo-16",
+    "unicode": "&#60365;"
+  },
+  "redo-24": {
+    "encodedCode": "\\ebce",
+    "prefix": "oi",
+    "className": "oi-redo-24",
+    "unicode": "&#60366;"
+  },
+  "rel-file-path-16": {
+    "encodedCode": "\\ebcf",
+    "prefix": "oi",
+    "className": "oi-rel-file-path-16",
+    "unicode": "&#60367;"
+  },
+  "rel-file-path-24": {
+    "encodedCode": "\\ebd0",
+    "prefix": "oi",
+    "className": "oi-rel-file-path-24",
+    "unicode": "&#60368;"
+  },
+  "reply-16": {
+    "encodedCode": "\\ebd1",
+    "prefix": "oi",
+    "className": "oi-reply-16",
+    "unicode": "&#60369;"
+  },
+  "reply-24": {
+    "encodedCode": "\\ebd2",
+    "prefix": "oi",
+    "className": "oi-reply-24",
+    "unicode": "&#60370;"
+  },
+  "repo-16": {
+    "encodedCode": "\\ebd3",
+    "prefix": "oi",
+    "className": "oi-repo-16",
+    "unicode": "&#60371;"
+  },
+  "repo-24": {
+    "encodedCode": "\\ebd4",
+    "prefix": "oi",
+    "className": "oi-repo-24",
+    "unicode": "&#60372;"
+  },
+  "repo-clone-16": {
+    "encodedCode": "\\ebd5",
+    "prefix": "oi",
+    "className": "oi-repo-clone-16",
+    "unicode": "&#60373;"
+  },
+  "repo-clone-24": {
+    "encodedCode": "\\ebd6",
+    "prefix": "oi",
+    "className": "oi-repo-clone-24",
+    "unicode": "&#60374;"
+  },
+  "repo-delete-24": {
+    "encodedCode": "\\ebd7",
+    "prefix": "oi",
+    "className": "oi-repo-delete-24",
+    "unicode": "&#60375;"
+  },
+  "repo-deleted-16": {
+    "encodedCode": "\\ebd8",
+    "prefix": "oi",
+    "className": "oi-repo-deleted-16",
+    "unicode": "&#60376;"
+  },
+  "repo-forked-16": {
+    "encodedCode": "\\ebd9",
+    "prefix": "oi",
+    "className": "oi-repo-forked-16",
+    "unicode": "&#60377;"
+  },
+  "repo-forked-24": {
+    "encodedCode": "\\ebda",
+    "prefix": "oi",
+    "className": "oi-repo-forked-24",
+    "unicode": "&#60378;"
+  },
+  "repo-locked-16": {
+    "encodedCode": "\\ebdb",
+    "prefix": "oi",
+    "className": "oi-repo-locked-16",
+    "unicode": "&#60379;"
+  },
+  "repo-locked-24": {
+    "encodedCode": "\\ebdc",
+    "prefix": "oi",
+    "className": "oi-repo-locked-24",
+    "unicode": "&#60380;"
+  },
+  "repo-pull-16": {
+    "encodedCode": "\\ebdd",
+    "prefix": "oi",
+    "className": "oi-repo-pull-16",
+    "unicode": "&#60381;"
+  },
+  "repo-pull-24": {
+    "encodedCode": "\\ebde",
+    "prefix": "oi",
+    "className": "oi-repo-pull-24",
+    "unicode": "&#60382;"
+  },
+  "repo-push-16": {
+    "encodedCode": "\\ebdf",
+    "prefix": "oi",
+    "className": "oi-repo-push-16",
+    "unicode": "&#60383;"
+  },
+  "repo-push-24": {
+    "encodedCode": "\\ebe0",
+    "prefix": "oi",
+    "className": "oi-repo-push-24",
+    "unicode": "&#60384;"
+  },
+  "repo-template-16": {
+    "encodedCode": "\\ebe1",
+    "prefix": "oi",
+    "className": "oi-repo-template-16",
+    "unicode": "&#60385;"
+  },
+  "repo-template-24": {
+    "encodedCode": "\\ebe2",
+    "prefix": "oi",
+    "className": "oi-repo-template-24",
+    "unicode": "&#60386;"
+  },
+  "report-16": {
+    "encodedCode": "\\ebe3",
+    "prefix": "oi",
+    "className": "oi-report-16",
+    "unicode": "&#60387;"
+  },
+  "report-24": {
+    "encodedCode": "\\ebe4",
+    "prefix": "oi",
+    "className": "oi-report-24",
+    "unicode": "&#60388;"
+  },
+  "rocket-16": {
+    "encodedCode": "\\ebe5",
+    "prefix": "oi",
+    "className": "oi-rocket-16",
+    "unicode": "&#60389;"
+  },
+  "rocket-24": {
+    "encodedCode": "\\ebe6",
+    "prefix": "oi",
+    "className": "oi-rocket-24",
+    "unicode": "&#60390;"
+  },
+  "rows-16": {
+    "encodedCode": "\\ebe7",
+    "prefix": "oi",
+    "className": "oi-rows-16",
+    "unicode": "&#60391;"
+  },
+  "rows-24": {
+    "encodedCode": "\\ebe8",
+    "prefix": "oi",
+    "className": "oi-rows-24",
+    "unicode": "&#60392;"
+  },
+  "rss-16": {
+    "encodedCode": "\\ebe9",
+    "prefix": "oi",
+    "className": "oi-rss-16",
+    "unicode": "&#60393;"
+  },
+  "rss-24": {
+    "encodedCode": "\\ebea",
+    "prefix": "oi",
+    "className": "oi-rss-24",
+    "unicode": "&#60394;"
+  },
+  "ruby-16": {
+    "encodedCode": "\\ebeb",
+    "prefix": "oi",
+    "className": "oi-ruby-16",
+    "unicode": "&#60395;"
+  },
+  "ruby-24": {
+    "encodedCode": "\\ebec",
+    "prefix": "oi",
+    "className": "oi-ruby-24",
+    "unicode": "&#60396;"
+  },
+  "screen-full-16": {
+    "encodedCode": "\\ebed",
+    "prefix": "oi",
+    "className": "oi-screen-full-16",
+    "unicode": "&#60397;"
+  },
+  "screen-full-24": {
+    "encodedCode": "\\ebee",
+    "prefix": "oi",
+    "className": "oi-screen-full-24",
+    "unicode": "&#60398;"
+  },
+  "screen-normal-16": {
+    "encodedCode": "\\ebef",
+    "prefix": "oi",
+    "className": "oi-screen-normal-16",
+    "unicode": "&#60399;"
+  },
+  "screen-normal-24": {
+    "encodedCode": "\\ebf0",
+    "prefix": "oi",
+    "className": "oi-screen-normal-24",
+    "unicode": "&#60400;"
+  },
+  "search-16": {
+    "encodedCode": "\\ebf1",
+    "prefix": "oi",
+    "className": "oi-search-16",
+    "unicode": "&#60401;"
+  },
+  "search-24": {
+    "encodedCode": "\\ebf2",
+    "prefix": "oi",
+    "className": "oi-search-24",
+    "unicode": "&#60402;"
+  },
+  "server-16": {
+    "encodedCode": "\\ebf3",
+    "prefix": "oi",
+    "className": "oi-server-16",
+    "unicode": "&#60403;"
+  },
+  "server-24": {
+    "encodedCode": "\\ebf4",
+    "prefix": "oi",
+    "className": "oi-server-24",
+    "unicode": "&#60404;"
+  },
+  "share-16": {
+    "encodedCode": "\\ebf5",
+    "prefix": "oi",
+    "className": "oi-share-16",
+    "unicode": "&#60405;"
+  },
+  "share-24": {
+    "encodedCode": "\\ebf6",
+    "prefix": "oi",
+    "className": "oi-share-24",
+    "unicode": "&#60406;"
+  },
+  "share-android-16": {
+    "encodedCode": "\\ebf7",
+    "prefix": "oi",
+    "className": "oi-share-android-16",
+    "unicode": "&#60407;"
+  },
+  "share-android-24": {
+    "encodedCode": "\\ebf8",
+    "prefix": "oi",
+    "className": "oi-share-android-24",
+    "unicode": "&#60408;"
+  },
+  "shield-16": {
+    "encodedCode": "\\ebf9",
+    "prefix": "oi",
+    "className": "oi-shield-16",
+    "unicode": "&#60409;"
+  },
+  "shield-24": {
+    "encodedCode": "\\ebfa",
+    "prefix": "oi",
+    "className": "oi-shield-24",
+    "unicode": "&#60410;"
+  },
+  "shield-check-16": {
+    "encodedCode": "\\ebfb",
+    "prefix": "oi",
+    "className": "oi-shield-check-16",
+    "unicode": "&#60411;"
+  },
+  "shield-check-24": {
+    "encodedCode": "\\ebfc",
+    "prefix": "oi",
+    "className": "oi-shield-check-24",
+    "unicode": "&#60412;"
+  },
+  "shield-lock-16": {
+    "encodedCode": "\\ebfd",
+    "prefix": "oi",
+    "className": "oi-shield-lock-16",
+    "unicode": "&#60413;"
+  },
+  "shield-lock-24": {
+    "encodedCode": "\\ebfe",
+    "prefix": "oi",
+    "className": "oi-shield-lock-24",
+    "unicode": "&#60414;"
+  },
+  "shield-slash-16": {
+    "encodedCode": "\\ebff",
+    "prefix": "oi",
+    "className": "oi-shield-slash-16",
+    "unicode": "&#60415;"
+  },
+  "shield-slash-24": {
+    "encodedCode": "\\ec00",
+    "prefix": "oi",
+    "className": "oi-shield-slash-24",
+    "unicode": "&#60416;"
+  },
+  "shield-x-16": {
+    "encodedCode": "\\ec01",
+    "prefix": "oi",
+    "className": "oi-shield-x-16",
+    "unicode": "&#60417;"
+  },
+  "shield-x-24": {
+    "encodedCode": "\\ec02",
+    "prefix": "oi",
+    "className": "oi-shield-x-24",
+    "unicode": "&#60418;"
+  },
+  "sidebar-collapse-16": {
+    "encodedCode": "\\ec03",
+    "prefix": "oi",
+    "className": "oi-sidebar-collapse-16",
+    "unicode": "&#60419;"
+  },
+  "sidebar-collapse-24": {
+    "encodedCode": "\\ec04",
+    "prefix": "oi",
+    "className": "oi-sidebar-collapse-24",
+    "unicode": "&#60420;"
+  },
+  "sidebar-expand-16": {
+    "encodedCode": "\\ec05",
+    "prefix": "oi",
+    "className": "oi-sidebar-expand-16",
+    "unicode": "&#60421;"
+  },
+  "sidebar-expand-24": {
+    "encodedCode": "\\ec06",
+    "prefix": "oi",
+    "className": "oi-sidebar-expand-24",
+    "unicode": "&#60422;"
+  },
+  "sign-in-16": {
+    "encodedCode": "\\ec07",
+    "prefix": "oi",
+    "className": "oi-sign-in-16",
+    "unicode": "&#60423;"
+  },
+  "sign-in-24": {
+    "encodedCode": "\\ec08",
+    "prefix": "oi",
+    "className": "oi-sign-in-24",
+    "unicode": "&#60424;"
+  },
+  "sign-out-16": {
+    "encodedCode": "\\ec09",
+    "prefix": "oi",
+    "className": "oi-sign-out-16",
+    "unicode": "&#60425;"
+  },
+  "sign-out-24": {
+    "encodedCode": "\\ec0a",
+    "prefix": "oi",
+    "className": "oi-sign-out-24",
+    "unicode": "&#60426;"
+  },
+  "single-select-16": {
+    "encodedCode": "\\ec0b",
+    "prefix": "oi",
+    "className": "oi-single-select-16",
+    "unicode": "&#60427;"
+  },
+  "single-select-24": {
+    "encodedCode": "\\ec0c",
+    "prefix": "oi",
+    "className": "oi-single-select-24",
+    "unicode": "&#60428;"
+  },
+  "skip-16": {
+    "encodedCode": "\\ec0d",
+    "prefix": "oi",
+    "className": "oi-skip-16",
+    "unicode": "&#60429;"
+  },
+  "skip-24": {
+    "encodedCode": "\\ec0e",
+    "prefix": "oi",
+    "className": "oi-skip-24",
+    "unicode": "&#60430;"
+  },
+  "skip-fill-16": {
+    "encodedCode": "\\ec0f",
+    "prefix": "oi",
+    "className": "oi-skip-fill-16",
+    "unicode": "&#60431;"
+  },
+  "skip-fill-24": {
+    "encodedCode": "\\ec10",
+    "prefix": "oi",
+    "className": "oi-skip-fill-24",
+    "unicode": "&#60432;"
+  },
+  "sliders-16": {
+    "encodedCode": "\\ec11",
+    "prefix": "oi",
+    "className": "oi-sliders-16",
+    "unicode": "&#60433;"
+  },
+  "sliders-24": {
+    "encodedCode": "\\ec12",
+    "prefix": "oi",
+    "className": "oi-sliders-24",
+    "unicode": "&#60434;"
+  },
+  "smiley-16": {
+    "encodedCode": "\\ec13",
+    "prefix": "oi",
+    "className": "oi-smiley-16",
+    "unicode": "&#60435;"
+  },
+  "smiley-24": {
+    "encodedCode": "\\ec14",
+    "prefix": "oi",
+    "className": "oi-smiley-24",
+    "unicode": "&#60436;"
+  },
+  "sort-asc-16": {
+    "encodedCode": "\\ec15",
+    "prefix": "oi",
+    "className": "oi-sort-asc-16",
+    "unicode": "&#60437;"
+  },
+  "sort-asc-24": {
+    "encodedCode": "\\ec16",
+    "prefix": "oi",
+    "className": "oi-sort-asc-24",
+    "unicode": "&#60438;"
+  },
+  "sort-desc-16": {
+    "encodedCode": "\\ec17",
+    "prefix": "oi",
+    "className": "oi-sort-desc-16",
+    "unicode": "&#60439;"
+  },
+  "sort-desc-24": {
+    "encodedCode": "\\ec18",
+    "prefix": "oi",
+    "className": "oi-sort-desc-24",
+    "unicode": "&#60440;"
+  },
+  "sparkle-fill-16": {
+    "encodedCode": "\\ec19",
+    "prefix": "oi",
+    "className": "oi-sparkle-fill-16",
+    "unicode": "&#60441;"
+  },
+  "sparkle-fill-24": {
+    "encodedCode": "\\ec1a",
+    "prefix": "oi",
+    "className": "oi-sparkle-fill-24",
+    "unicode": "&#60442;"
+  },
+  "sparkles-fill-16": {
+    "encodedCode": "\\ec1b",
+    "prefix": "oi",
+    "className": "oi-sparkles-fill-16",
+    "unicode": "&#60443;"
+  },
+  "sparkles-fill-24": {
+    "encodedCode": "\\ec1c",
+    "prefix": "oi",
+    "className": "oi-sparkles-fill-24",
+    "unicode": "&#60444;"
+  },
+  "sponsor-tiers-16": {
+    "encodedCode": "\\ec1d",
+    "prefix": "oi",
+    "className": "oi-sponsor-tiers-16",
+    "unicode": "&#60445;"
+  },
+  "sponsor-tiers-24": {
+    "encodedCode": "\\ec1e",
+    "prefix": "oi",
+    "className": "oi-sponsor-tiers-24",
+    "unicode": "&#60446;"
+  },
+  "square-16": {
+    "encodedCode": "\\ec1f",
+    "prefix": "oi",
+    "className": "oi-square-16",
+    "unicode": "&#60447;"
+  },
+  "square-24": {
+    "encodedCode": "\\ec20",
+    "prefix": "oi",
+    "className": "oi-square-24",
+    "unicode": "&#60448;"
+  },
+  "square-circle-16": {
+    "encodedCode": "\\ec21",
+    "prefix": "oi",
+    "className": "oi-square-circle-16",
+    "unicode": "&#60449;"
+  },
+  "square-circle-24": {
+    "encodedCode": "\\ec22",
+    "prefix": "oi",
+    "className": "oi-square-circle-24",
+    "unicode": "&#60450;"
+  },
+  "square-fill-16": {
+    "encodedCode": "\\ec23",
+    "prefix": "oi",
+    "className": "oi-square-fill-16",
+    "unicode": "&#60451;"
+  },
+  "square-fill-24": {
+    "encodedCode": "\\ec24",
+    "prefix": "oi",
+    "className": "oi-square-fill-24",
+    "unicode": "&#60452;"
+  },
+  "squirrel-16": {
+    "encodedCode": "\\ec25",
+    "prefix": "oi",
+    "className": "oi-squirrel-16",
+    "unicode": "&#60453;"
+  },
+  "squirrel-24": {
+    "encodedCode": "\\ec26",
+    "prefix": "oi",
+    "className": "oi-squirrel-24",
+    "unicode": "&#60454;"
+  },
+  "stack-16": {
+    "encodedCode": "\\ec27",
+    "prefix": "oi",
+    "className": "oi-stack-16",
+    "unicode": "&#60455;"
+  },
+  "stack-24": {
+    "encodedCode": "\\ec28",
+    "prefix": "oi",
+    "className": "oi-stack-24",
+    "unicode": "&#60456;"
+  },
+  "star-16": {
+    "encodedCode": "\\ec29",
+    "prefix": "oi",
+    "className": "oi-star-16",
+    "unicode": "&#60457;"
+  },
+  "star-24": {
+    "encodedCode": "\\ec2a",
+    "prefix": "oi",
+    "className": "oi-star-24",
+    "unicode": "&#60458;"
+  },
+  "star-fill-16": {
+    "encodedCode": "\\ec2b",
+    "prefix": "oi",
+    "className": "oi-star-fill-16",
+    "unicode": "&#60459;"
+  },
+  "star-fill-24": {
+    "encodedCode": "\\ec2c",
+    "prefix": "oi",
+    "className": "oi-star-fill-24",
+    "unicode": "&#60460;"
+  },
+  "stop-16": {
+    "encodedCode": "\\ec2d",
+    "prefix": "oi",
+    "className": "oi-stop-16",
+    "unicode": "&#60461;"
+  },
+  "stop-24": {
+    "encodedCode": "\\ec2e",
+    "prefix": "oi",
+    "className": "oi-stop-24",
+    "unicode": "&#60462;"
+  },
+  "stopwatch-16": {
+    "encodedCode": "\\ec2f",
+    "prefix": "oi",
+    "className": "oi-stopwatch-16",
+    "unicode": "&#60463;"
+  },
+  "stopwatch-24": {
+    "encodedCode": "\\ec30",
+    "prefix": "oi",
+    "className": "oi-stopwatch-24",
+    "unicode": "&#60464;"
+  },
+  "strikethrough-16": {
+    "encodedCode": "\\ec31",
+    "prefix": "oi",
+    "className": "oi-strikethrough-16",
+    "unicode": "&#60465;"
+  },
+  "strikethrough-24": {
+    "encodedCode": "\\ec32",
+    "prefix": "oi",
+    "className": "oi-strikethrough-24",
+    "unicode": "&#60466;"
+  },
+  "sun-16": {
+    "encodedCode": "\\ec33",
+    "prefix": "oi",
+    "className": "oi-sun-16",
+    "unicode": "&#60467;"
+  },
+  "sun-24": {
+    "encodedCode": "\\ec34",
+    "prefix": "oi",
+    "className": "oi-sun-24",
+    "unicode": "&#60468;"
+  },
+  "sync-16": {
+    "encodedCode": "\\ec35",
+    "prefix": "oi",
+    "className": "oi-sync-16",
+    "unicode": "&#60469;"
+  },
+  "sync-24": {
+    "encodedCode": "\\ec36",
+    "prefix": "oi",
+    "className": "oi-sync-24",
+    "unicode": "&#60470;"
+  },
+  "tab-16": {
+    "encodedCode": "\\ec37",
+    "prefix": "oi",
+    "className": "oi-tab-16",
+    "unicode": "&#60471;"
+  },
+  "tab-24": {
+    "encodedCode": "\\ec38",
+    "prefix": "oi",
+    "className": "oi-tab-24",
+    "unicode": "&#60472;"
+  },
+  "tab-external-16": {
+    "encodedCode": "\\ec39",
+    "prefix": "oi",
+    "className": "oi-tab-external-16",
+    "unicode": "&#60473;"
+  },
+  "tab-external-24": {
+    "encodedCode": "\\ec3a",
+    "prefix": "oi",
+    "className": "oi-tab-external-24",
+    "unicode": "&#60474;"
+  },
+  "table-16": {
+    "encodedCode": "\\ec3b",
+    "prefix": "oi",
+    "className": "oi-table-16",
+    "unicode": "&#60475;"
+  },
+  "table-24": {
+    "encodedCode": "\\ec3c",
+    "prefix": "oi",
+    "className": "oi-table-24",
+    "unicode": "&#60476;"
+  },
+  "tag-16": {
+    "encodedCode": "\\ec3d",
+    "prefix": "oi",
+    "className": "oi-tag-16",
+    "unicode": "&#60477;"
+  },
+  "tag-24": {
+    "encodedCode": "\\ec3e",
+    "prefix": "oi",
+    "className": "oi-tag-24",
+    "unicode": "&#60478;"
+  },
+  "tasklist-16": {
+    "encodedCode": "\\ec3f",
+    "prefix": "oi",
+    "className": "oi-tasklist-16",
+    "unicode": "&#60479;"
+  },
+  "tasklist-24": {
+    "encodedCode": "\\ec40",
+    "prefix": "oi",
+    "className": "oi-tasklist-24",
+    "unicode": "&#60480;"
+  },
+  "telescope-16": {
+    "encodedCode": "\\ec41",
+    "prefix": "oi",
+    "className": "oi-telescope-16",
+    "unicode": "&#60481;"
+  },
+  "telescope-24": {
+    "encodedCode": "\\ec42",
+    "prefix": "oi",
+    "className": "oi-telescope-24",
+    "unicode": "&#60482;"
+  },
+  "telescope-fill-16": {
+    "encodedCode": "\\ec43",
+    "prefix": "oi",
+    "className": "oi-telescope-fill-16",
+    "unicode": "&#60483;"
+  },
+  "telescope-fill-24": {
+    "encodedCode": "\\ec44",
+    "prefix": "oi",
+    "className": "oi-telescope-fill-24",
+    "unicode": "&#60484;"
+  },
+  "terminal-16": {
+    "encodedCode": "\\ec45",
+    "prefix": "oi",
+    "className": "oi-terminal-16",
+    "unicode": "&#60485;"
+  },
+  "terminal-24": {
+    "encodedCode": "\\ec46",
+    "prefix": "oi",
+    "className": "oi-terminal-24",
+    "unicode": "&#60486;"
+  },
+  "three-bars-16": {
+    "encodedCode": "\\ec47",
+    "prefix": "oi",
+    "className": "oi-three-bars-16",
+    "unicode": "&#60487;"
+  },
+  "three-bars-24": {
+    "encodedCode": "\\ec48",
+    "prefix": "oi",
+    "className": "oi-three-bars-24",
+    "unicode": "&#60488;"
+  },
+  "thumbsdown-16": {
+    "encodedCode": "\\ec49",
+    "prefix": "oi",
+    "className": "oi-thumbsdown-16",
+    "unicode": "&#60489;"
+  },
+  "thumbsdown-24": {
+    "encodedCode": "\\ec4a",
+    "prefix": "oi",
+    "className": "oi-thumbsdown-24",
+    "unicode": "&#60490;"
+  },
+  "thumbsup-16": {
+    "encodedCode": "\\ec4b",
+    "prefix": "oi",
+    "className": "oi-thumbsup-16",
+    "unicode": "&#60491;"
+  },
+  "thumbsup-24": {
+    "encodedCode": "\\ec4c",
+    "prefix": "oi",
+    "className": "oi-thumbsup-24",
+    "unicode": "&#60492;"
+  },
+  "tools-16": {
+    "encodedCode": "\\ec4d",
+    "prefix": "oi",
+    "className": "oi-tools-16",
+    "unicode": "&#60493;"
+  },
+  "tools-24": {
+    "encodedCode": "\\ec4e",
+    "prefix": "oi",
+    "className": "oi-tools-24",
+    "unicode": "&#60494;"
+  },
+  "tracked-by-closed-completed-16": {
+    "encodedCode": "\\ec4f",
+    "prefix": "oi",
+    "className": "oi-tracked-by-closed-completed-16",
+    "unicode": "&#60495;"
+  },
+  "tracked-by-closed-completed-24": {
+    "encodedCode": "\\ec50",
+    "prefix": "oi",
+    "className": "oi-tracked-by-closed-completed-24",
+    "unicode": "&#60496;"
+  },
+  "tracked-by-closed-not-planned-16": {
+    "encodedCode": "\\ec51",
+    "prefix": "oi",
+    "className": "oi-tracked-by-closed-not-planned-16",
+    "unicode": "&#60497;"
+  },
+  "tracked-by-closed-not-planned-24": {
+    "encodedCode": "\\ec52",
+    "prefix": "oi",
+    "className": "oi-tracked-by-closed-not-planned-24",
+    "unicode": "&#60498;"
+  },
+  "trash-16": {
+    "encodedCode": "\\ec53",
+    "prefix": "oi",
+    "className": "oi-trash-16",
+    "unicode": "&#60499;"
+  },
+  "trash-24": {
+    "encodedCode": "\\ec54",
+    "prefix": "oi",
+    "className": "oi-trash-24",
+    "unicode": "&#60500;"
+  },
+  "triangle-down-16": {
+    "encodedCode": "\\ec55",
+    "prefix": "oi",
+    "className": "oi-triangle-down-16",
+    "unicode": "&#60501;"
+  },
+  "triangle-down-24": {
+    "encodedCode": "\\ec56",
+    "prefix": "oi",
+    "className": "oi-triangle-down-24",
+    "unicode": "&#60502;"
+  },
+  "triangle-left-16": {
+    "encodedCode": "\\ec57",
+    "prefix": "oi",
+    "className": "oi-triangle-left-16",
+    "unicode": "&#60503;"
+  },
+  "triangle-left-24": {
+    "encodedCode": "\\ec58",
+    "prefix": "oi",
+    "className": "oi-triangle-left-24",
+    "unicode": "&#60504;"
+  },
+  "triangle-right-16": {
+    "encodedCode": "\\ec59",
+    "prefix": "oi",
+    "className": "oi-triangle-right-16",
+    "unicode": "&#60505;"
+  },
+  "triangle-right-24": {
+    "encodedCode": "\\ec5a",
+    "prefix": "oi",
+    "className": "oi-triangle-right-24",
+    "unicode": "&#60506;"
+  },
+  "triangle-up-16": {
+    "encodedCode": "\\ec5b",
+    "prefix": "oi",
+    "className": "oi-triangle-up-16",
+    "unicode": "&#60507;"
+  },
+  "triangle-up-24": {
+    "encodedCode": "\\ec5c",
+    "prefix": "oi",
+    "className": "oi-triangle-up-24",
+    "unicode": "&#60508;"
+  },
+  "trophy-16": {
+    "encodedCode": "\\ec5d",
+    "prefix": "oi",
+    "className": "oi-trophy-16",
+    "unicode": "&#60509;"
+  },
+  "trophy-24": {
+    "encodedCode": "\\ec5e",
+    "prefix": "oi",
+    "className": "oi-trophy-24",
+    "unicode": "&#60510;"
+  },
+  "typography-16": {
+    "encodedCode": "\\ec5f",
+    "prefix": "oi",
+    "className": "oi-typography-16",
+    "unicode": "&#60511;"
+  },
+  "typography-24": {
+    "encodedCode": "\\ec60",
+    "prefix": "oi",
+    "className": "oi-typography-24",
+    "unicode": "&#60512;"
+  },
+  "undo-16": {
+    "encodedCode": "\\ec61",
+    "prefix": "oi",
+    "className": "oi-undo-16",
+    "unicode": "&#60513;"
+  },
+  "undo-24": {
+    "encodedCode": "\\ec62",
+    "prefix": "oi",
+    "className": "oi-undo-24",
+    "unicode": "&#60514;"
+  },
+  "unfold-16": {
+    "encodedCode": "\\ec63",
+    "prefix": "oi",
+    "className": "oi-unfold-16",
+    "unicode": "&#60515;"
+  },
+  "unfold-24": {
+    "encodedCode": "\\ec64",
+    "prefix": "oi",
+    "className": "oi-unfold-24",
+    "unicode": "&#60516;"
+  },
+  "unlink-16": {
+    "encodedCode": "\\ec65",
+    "prefix": "oi",
+    "className": "oi-unlink-16",
+    "unicode": "&#60517;"
+  },
+  "unlink-24": {
+    "encodedCode": "\\ec66",
+    "prefix": "oi",
+    "className": "oi-unlink-24",
+    "unicode": "&#60518;"
+  },
+  "unlock-16": {
+    "encodedCode": "\\ec67",
+    "prefix": "oi",
+    "className": "oi-unlock-16",
+    "unicode": "&#60519;"
+  },
+  "unlock-24": {
+    "encodedCode": "\\ec68",
+    "prefix": "oi",
+    "className": "oi-unlock-24",
+    "unicode": "&#60520;"
+  },
+  "unmute-16": {
+    "encodedCode": "\\ec69",
+    "prefix": "oi",
+    "className": "oi-unmute-16",
+    "unicode": "&#60521;"
+  },
+  "unmute-24": {
+    "encodedCode": "\\ec6a",
+    "prefix": "oi",
+    "className": "oi-unmute-24",
+    "unicode": "&#60522;"
+  },
+  "unread-16": {
+    "encodedCode": "\\ec6b",
+    "prefix": "oi",
+    "className": "oi-unread-16",
+    "unicode": "&#60523;"
+  },
+  "unread-24": {
+    "encodedCode": "\\ec6c",
+    "prefix": "oi",
+    "className": "oi-unread-24",
+    "unicode": "&#60524;"
+  },
+  "unverified-16": {
+    "encodedCode": "\\ec6d",
+    "prefix": "oi",
+    "className": "oi-unverified-16",
+    "unicode": "&#60525;"
+  },
+  "unverified-24": {
+    "encodedCode": "\\ec6e",
+    "prefix": "oi",
+    "className": "oi-unverified-24",
+    "unicode": "&#60526;"
+  },
+  "upload-16": {
+    "encodedCode": "\\ec6f",
+    "prefix": "oi",
+    "className": "oi-upload-16",
+    "unicode": "&#60527;"
+  },
+  "upload-24": {
+    "encodedCode": "\\ec70",
+    "prefix": "oi",
+    "className": "oi-upload-24",
+    "unicode": "&#60528;"
+  },
+  "verified-16": {
+    "encodedCode": "\\ec71",
+    "prefix": "oi",
+    "className": "oi-verified-16",
+    "unicode": "&#60529;"
+  },
+  "verified-24": {
+    "encodedCode": "\\ec72",
+    "prefix": "oi",
+    "className": "oi-verified-24",
+    "unicode": "&#60530;"
+  },
+  "versions-16": {
+    "encodedCode": "\\ec73",
+    "prefix": "oi",
+    "className": "oi-versions-16",
+    "unicode": "&#60531;"
+  },
+  "versions-24": {
+    "encodedCode": "\\ec74",
+    "prefix": "oi",
+    "className": "oi-versions-24",
+    "unicode": "&#60532;"
+  },
+  "video-16": {
+    "encodedCode": "\\ec75",
+    "prefix": "oi",
+    "className": "oi-video-16",
+    "unicode": "&#60533;"
+  },
+  "video-24": {
+    "encodedCode": "\\ec76",
+    "prefix": "oi",
+    "className": "oi-video-24",
+    "unicode": "&#60534;"
+  },
+  "webhook-16": {
+    "encodedCode": "\\ec77",
+    "prefix": "oi",
+    "className": "oi-webhook-16",
+    "unicode": "&#60535;"
+  },
+  "workflow-16": {
+    "encodedCode": "\\ec78",
+    "prefix": "oi",
+    "className": "oi-workflow-16",
+    "unicode": "&#60536;"
+  },
+  "workflow-24": {
+    "encodedCode": "\\ec79",
+    "prefix": "oi",
+    "className": "oi-workflow-24",
+    "unicode": "&#60537;"
+  },
+  "x-12": {
+    "encodedCode": "\\ec7a",
+    "prefix": "oi",
+    "className": "oi-x-12",
+    "unicode": "&#60538;"
+  },
+  "x-16": {
+    "encodedCode": "\\ec7b",
+    "prefix": "oi",
+    "className": "oi-x-16",
+    "unicode": "&#60539;"
+  },
+  "x-24": {
+    "encodedCode": "\\ec7c",
+    "prefix": "oi",
+    "className": "oi-x-24",
+    "unicode": "&#60540;"
+  },
+  "x-circle-16": {
+    "encodedCode": "\\ec7d",
+    "prefix": "oi",
+    "className": "oi-x-circle-16",
+    "unicode": "&#60541;"
+  },
+  "x-circle-24": {
+    "encodedCode": "\\ec7e",
+    "prefix": "oi",
+    "className": "oi-x-circle-24",
+    "unicode": "&#60542;"
+  },
+  "x-circle-fill-12": {
+    "encodedCode": "\\ec7f",
+    "prefix": "oi",
+    "className": "oi-x-circle-fill-12",
+    "unicode": "&#60543;"
+  },
+  "x-circle-fill-16": {
+    "encodedCode": "\\ec80",
+    "prefix": "oi",
+    "className": "oi-x-circle-fill-16",
+    "unicode": "&#60544;"
+  },
+  "x-circle-fill-24": {
+    "encodedCode": "\\ec81",
+    "prefix": "oi",
+    "className": "oi-x-circle-fill-24",
+    "unicode": "&#60545;"
+  },
+  "zap-16": {
+    "encodedCode": "\\ec82",
+    "prefix": "oi",
+    "className": "oi-zap-16",
+    "unicode": "&#60546;"
+  },
+  "zap-24": {
+    "encodedCode": "\\ec83",
+    "prefix": "oi",
+    "className": "oi-zap-24",
+    "unicode": "&#60547;"
+  },
+  "zoom-in-16": {
+    "encodedCode": "\\ec84",
+    "prefix": "oi",
+    "className": "oi-zoom-in-16",
+    "unicode": "&#60548;"
+  },
+  "zoom-in-24": {
+    "encodedCode": "\\ec85",
+    "prefix": "oi",
+    "className": "oi-zoom-in-24",
+    "unicode": "&#60549;"
+  },
+  "zoom-out-16": {
+    "encodedCode": "\\ec86",
+    "prefix": "oi",
+    "className": "oi-zoom-out-16",
+    "unicode": "&#60550;"
+  },
+  "zoom-out-24": {
+    "encodedCode": "\\ec87",
+    "prefix": "oi",
+    "className": "oi-zoom-out-24",
+    "unicode": "&#60551;"
+  }
+}
