@@ -15,14 +15,10 @@ let font = svgtofont({
     classNamePrefix:"oi",
     excludeFormat: ['svg', 'ttf', 'eot'],
     generateInfoData: true,
-    outSVGReact: true,
-    outSVGReactNative: true,
+    outSVGReact: false,
+    outSVGReactNative: false,
     emptyDist: true,
-    logger: (msg) => {
-        //create console message that changes while processing
-        console.log(msg);
-
-    },
+    
     styleTemplates: "style_template",
     svgicons2svgfont: {
         
@@ -32,42 +28,6 @@ let font = svgtofont({
       hasTimestamp: false,
       fontSize: "16px",
     },
-    website: {
-        title: "Octicons-css",
-        logo: "",//path.resolve(process.cwd(), "svg", "git.svg"),
-        version: version,
-        meta: {
-          description: "Octicons/Primer condensed down into a css file",
-          keywords: "octicons,primer,css,octicons-css,octicons.css,primer.css",
-          favicon: "./favicon.png"
-        },
-        // Add a Github corner to your website
-        // Like: https://github.com/uiwjs/react-github-corners
-        corners: {
-          url: 'https://github.com/ExtravagantBoost/octicons-css',
-          width: 62, // default: 60
-          height: 62, // default: 60
-          bgColor: '#dc3545' // default: '#151513'
-        },
-        links: [
-          {
-            title: "GitHub",
-            url: "https://github.com/ExtravagantBoost/octicons-css"
-          },
-          {
-            title: "Feedback",
-            url: "https://github.com/ExtravagantBoosr/octicons-css/issues"
-          },
-          {
-            title: "Font Class",
-            url: "index.html"
-          },
-          {
-            title: "Unicode",
-            url: "unicode.html"
-          }
-        ]
-      }
 }).then(()=>{
     //lets minify the json file that was generated
     let jsn = output_file + "/info.json";

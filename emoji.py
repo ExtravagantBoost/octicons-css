@@ -1,2 +1,0 @@
-import nanoemoji
-nanoemoji.main()
