@@ -2,7 +2,7 @@
   "name": "octicons-css",
   "version": "1.0.0",
   "publishConfig": {},
-  "type":"module",
+  "type": "module",
   "scripts": {
     "run": "./run.js"
   },
@@ -71,5 +71,8 @@
   "bugs": {
     "url": "https://github.com/extravagantboost/octicons-css/issues"
   },
-  "homepage": "https://github.com/extravagantboost/octicons-css#readme"
+  "homepage": "https://github.com/extravagantboost/octicons-css#readme",
+  "devDependencies": {
+    "eruda": "3.4.1"
+  }
 }
