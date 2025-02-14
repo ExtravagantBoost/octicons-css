@@ -1,4 +1,4 @@
-import svgtofont from './modifieds/lib/index.js';
+import svgtofont from './svgtofont/lib/index.js';
 import path from 'path';
 import fs from 'fs';
 //lets import process from nodejs
