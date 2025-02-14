@@ -1,0 +1,3 @@
+[submodule "svgtofont"]
+    path = svgtofont
+    url = https://github.com/ExtravagantBoost/svgtofont.git
