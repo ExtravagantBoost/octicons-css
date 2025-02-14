@@ -1,4 +1,4 @@
-import svgtofont from 'svgtofont';
+import svgtofont from './modifieds/lib/index.js';
 import path from 'path';
 import fs from 'fs';
 //lets import process from nodejs
@@ -23,10 +23,16 @@ let font = svgtofont({
     svgicons2svgfont: {
         
         normalize: true,
+        //preserveAspectRatio:true,
+        //usePathBounds: true,
+        centerHorizontally: true,
+        centerVertically: true,
+        //fontHeight: 1000*16,
+        //log: console.log,
     },
     css: {
-      hasTimestamp: false,
-      fontSize: "16px",
+        preserveSVGsize: true,
+        hasTimestamp: false,
     },
 }).then(()=>{
     //lets minify the json file that was generated

@@ -36,7 +36,7 @@ fetch("./css/info.json").then((response)=>response.json()).then((jso)=>{
         icon.classList.add("oi");
         icon.classList.add(clase);
         icon.setStyle({
-            "font-size":getFontSize(clase) + "px"
+           "font-size":getFontSize(clase) + "px"
         })
         let wrapper = l.CE("div");
         wrapper.setattr({

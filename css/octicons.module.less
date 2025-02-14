@@ -3,9 +3,9 @@
   src: url('octicons.woff2') format('woff2'),
   url('octicons.woff') format('woff');
 }
-    
-.oi::before, 
-[class^="oi-"]::before, 
+
+.oi::before,
+[class^="oi-"]::before,
 [class*=" oi-"]::before {
     display: inline-block;
     font-family: 'octicons' !important;
@@ -19,8 +19,9 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-    
 
+
+:global {
 .oi-accessibility-16:before { content: "\ea01"; width: 16px; height: 16px; }
 .oi-accessibility-24:before { content: "\ea02"; width: 24px; height: 24px; }
 .oi-accessibility-inset-16:before { content: "\ea03"; width: 16px; height: 16px; }
@@ -669,3 +670,4 @@
 .oi-zoom-out-16:before { content: "\ec86"; width: 16px; height: 16px; }
 .oi-zoom-out-24:before { content: "\ec87"; width: 24px; height: 24px; }
 
+}
