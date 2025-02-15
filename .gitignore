@@ -8,7 +8,7 @@ node_modules
 style_template
 vendor
 Gemfile.lock
-modifieds
+svgtofont
 # Ignore build/export artifacts
 lib/**/build/
 
